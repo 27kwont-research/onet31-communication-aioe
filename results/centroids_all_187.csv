@@ -1,0 +1,749 @@
+cluster_id,cluster_name,rank,feature,domain,element_id,element_name,centroid_z,centroid_weighted
+0,Public-facing Service and Support,1,Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,0.536311166298639,0.46759524809923
+0,Public-facing Service and Support,2,"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",0.529368172514717,0.391440337022758
+0,Public-facing Service and Support,3,Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,0.513533391352742,0.625610772894729
+0,Public-facing Service and Support,4,Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,0.512589610209404,0.379033459494876
+0,Public-facing Service and Support,5,Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,0.509830701990239,0.37699338980577
+0,Public-facing Service and Support,6,Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,0.484429863790936,0.470781205365235
+0,Public-facing Service and Support,7,Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,0.465979743636722,0.567678660197605
+0,Public-facing Service and Support,8,Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,0.452572622498622,0.334654006561395
+0,Public-facing Service and Support,9,Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,0.406840216237458,0.300837261526098
+0,Public-facing Service and Support,10,Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,0.37811772507895,0.460640975280518
+0,Public-facing Service and Support,11,Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,0.37353574606809,0.455058990781281
+0,Public-facing Service and Support,12,Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,0.345684946387723,0.335945382193165
+0,Public-facing Service and Support,13,Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,0.324056754528743,0.239623180601599
+0,Public-facing Service and Support,14,Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,0.31765303615884,0.386980018845912
+0,Public-facing Service and Support,15,Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,0.307082844350473,0.374102909045012
+0,Public-facing Service and Support,16,Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,0.296763520654936,0.219441248213688
+0,Public-facing Service and Support,17,Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,0.276165888685146,0.204210366534829
+0,Public-facing Service and Support,18,Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,0.266135644101441,0.324219084493326
+0,Public-facing Service and Support,19,Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,0.248561485968656,0.27752940866869
+0,Public-facing Service and Support,20,"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",0.242441291637853,0.179272774288892
+0,Public-facing Service and Support,21,Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,0.236314736124795,0.174742503903674
+0,Public-facing Service and Support,22,Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,0.235454017684511,0.20528601068478
+0,Public-facing Service and Support,23,Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,0.22704439485787,0.167887566832934
+0,Public-facing Service and Support,24,Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,0.202909717870795,0.197192800650207
+0,Public-facing Service and Support,25,Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,0.173611390496248,0.128376628470144
+0,Public-facing Service and Support,26,Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,0.150058418422229,0.145830569872766
+0,Public-facing Service and Support,27,Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,0.105816090411474,0.078245516530268
+0,Public-facing Service and Support,28,Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,0.102775774416899,0.0998800994300681
+0,Public-facing Service and Support,29,Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,0.0892272990083437,0.0659789647525239
+0,Public-facing Service and Support,30,Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,0.0879675573640504,0.107166257304548
+0,Public-facing Service and Support,31,Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,0.0835497147938456,0.0617806853813997
+0,Public-facing Service and Support,32,Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,0.0784525542045624,0.0580115992093884
+0,Public-facing Service and Support,33,Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,0.0744841859253073,0.07238561750953
+0,Public-facing Service and Support,34,Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,0.0736277756510387,0.0641940727435294
+0,Public-facing Service and Support,35,Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,0.066670395831904,0.0647919784843543
+0,Public-facing Service and Support,36,Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,0.0569193966334278,0.0420889448178935
+0,Public-facing Service and Support,37,Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,0.0530566515747853,0.0392326449757528
+0,Public-facing Service and Support,38,Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,0.0520145677954904,0.0453500994599155
+0,Public-facing Service and Support,39,Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,0.0454691725127777,0.0396433457627096
+0,Public-facing Service and Support,40,Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,0.0402479021812621,0.0297612384202306
+0,Public-facing Service and Support,41,Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,0.0290285372035904,0.0353639430302736
+0,Public-facing Service and Support,42,"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",0.0224105873895191,0.0165714682825731
+0,Public-facing Service and Support,43,Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,0.0194502264338054,0.0189022224465614
+0,Public-facing Service and Support,44,Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,0.0194208246168815,0.0169324934397612
+0,Public-facing Service and Support,45,Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,0.00952032814176254,0.00925209590295991
+0,Public-facing Service and Support,46,Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,0.00595534585725818,0.00440366971512145
+0,Public-facing Service and Support,47,Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,-0.00428428163579378,-0.00316800430114433
+0,Public-facing Service and Support,48,Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,-0.0120496397965419,-0.00891008433800403
+0,Public-facing Service and Support,49,Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,-0.0218253804022056,-0.0212104572019935
+0,Public-facing Service and Support,50,Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,-0.0230180938245943,-0.0170206878164179
+0,Public-facing Service and Support,51,Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,-0.0262134523128127,-0.0193834898670115
+0,Public-facing Service and Support,52,Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,-0.0301319135864014,-0.0292829564369901
+0,Public-facing Service and Support,53,Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,-0.0303858633222488,-0.0295297512192295
+0,Public-facing Service and Support,54,Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,-0.0311549246333531,-0.0230374526304929
+0,Public-facing Service and Support,55,Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,-0.039400643054207,-0.0382905423791753
+0,Public-facing Service and Support,56,Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,-0.053922050416081,-0.0524028136745986
+0,Public-facing Service and Support,57,Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,-0.0562655300209731,-0.0546802664817114
+0,Public-facing Service and Support,58,Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,-0.0773910426065425,-0.0942814445866307
+0,Public-facing Service and Support,59,Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,-0.0776975655711273,-0.0677424128620641
+0,Public-facing Service and Support,60,Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,-0.0867431999776848,-0.0968524504189382
+0,Public-facing Service and Support,61,Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,-0.107756423456986,-0.131273994054635
+0,Public-facing Service and Support,62,Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,-0.112315562177518,-0.125405074056199
+0,Public-facing Service and Support,63,Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,-0.115707678084806,-0.100882405291788
+0,Public-facing Service and Support,64,Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,-0.124267922830635,-0.108345851919873
+0,Public-facing Service and Support,65,Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,-0.12693408154694,-0.123357753886096
+0,Public-facing Service and Support,66,Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,-0.127245818150607,-0.0940916899196946
+0,Public-facing Service and Support,67,Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,-0.129007338158304,-0.125372597147185
+0,Public-facing Service and Support,68,Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,-0.134199984531049,-0.236917774189028
+0,Public-facing Service and Support,69,Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,-0.138542244378107,-0.134638860395441
+0,Public-facing Service and Support,70,Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,-0.141408634506502,-0.172270716212948
+0,Public-facing Service and Support,71,Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,-0.143646347624005,-0.1395991571443
+0,Public-facing Service and Support,72,"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",-0.144542483043654,-0.106881677468324
+0,Public-facing Service and Support,73,Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,-0.148250234683434,-0.109623367707421
+0,Public-facing Service and Support,74,Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,-0.154652913764438,-0.150295616759683
+0,Public-facing Service and Support,75,Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,-0.158787302673572,-0.177292737220963
+0,Public-facing Service and Support,76,Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,-0.160042262987073,-0.139536534702937
+0,Public-facing Service and Support,77,"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",-0.160820338697893,-0.118918308369337
+0,Public-facing Service and Support,78,Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,-0.161311899810918,-0.140643496822967
+0,Public-facing Service and Support,79,Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,-0.167442329735346,-0.162724694974605
+0,Public-facing Service and Support,80,Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,-0.169678640970022,-0.206710581061451
+0,Public-facing Service and Support,81,Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,-0.17485635804704,-0.129297217472217
+0,Public-facing Service and Support,82,Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,-0.174924391550036,-0.129347524722868
+0,Public-facing Service and Support,83,"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",-0.178069956721522,-0.131673507195529
+0,Public-facing Service and Support,84,Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,-0.178300223093703,-0.314772703889499
+0,Public-facing Service and Support,85,"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",-0.178396117064235,-0.131914685870606
+0,Public-facing Service and Support,86,Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,-0.178851146256854,-0.217884962744325
+0,Public-facing Service and Support,87,Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,-0.179905692460025,-0.133030938664729
+0,Public-facing Service and Support,88,Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,-0.181787390604011,-0.176665588283573
+0,Public-facing Service and Support,89,Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,-0.184835374887571,-0.136676183413175
+0,Public-facing Service and Support,90,"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",-0.186834750761148,-0.138154618284071
+0,Public-facing Service and Support,91,Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,-0.202627189683662,-0.149832308661402
+0,Public-facing Service and Support,92,Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,-0.202990462020121,-0.150100929733082
+0,Public-facing Service and Support,93,Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,-0.205105960941029,-0.151665231581147
+0,Public-facing Service and Support,94,"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",-0.209301850485693,-0.154767874510493
+0,Public-facing Service and Support,95,Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,-0.215029815648143,-0.187478699521869
+0,Public-facing Service and Support,96,Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,-0.21644512290797,-0.263683731013195
+0,Public-facing Service and Support,97,Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,-0.220457723694537,-0.214246396951657
+0,Public-facing Service and Support,98,Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,-0.275451942819046,-0.203682440556366
+0,Public-facing Service and Support,99,Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,-0.279401778919234,-0.206603139711545
+0,Public-facing Service and Support,100,Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,-0.286780794874896,-0.212059539704124
+0,Public-facing Service and Support,101,Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,-0.290869647536911,-0.354351222474236
+0,Public-facing Service and Support,102,"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",-0.298032770296969,-0.25984673809889
+0,Public-facing Service and Support,103,Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,-0.301567535336435,-0.336712903969963
+0,Public-facing Service and Support,104,"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",-0.307255612090476,-0.267887885230652
+0,Public-facing Service and Support,105,"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",-0.307882622875376,-0.227663248225294
+0,Public-facing Service and Support,106,Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,-0.312669877480755,-0.231203174978429
+0,Public-facing Service and Support,107,Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,-0.314888200478013,-0.351585989819965
+0,Public-facing Service and Support,108,"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",-0.315907353380071,-0.275431105228697
+0,Public-facing Service and Support,109,Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,-0.31729019724328,-0.27663676951453
+0,Public-facing Service and Support,110,"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",-0.317309234349516,-0.234633739017913
+0,Public-facing Service and Support,111,Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,-0.319979611790531,-0.38981436380507
+0,Public-facing Service and Support,112,Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,-0.320624055980878,-0.311590574459114
+0,Public-facing Service and Support,113,Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,-0.323671795987955,-0.282200713425824
+0,Public-facing Service and Support,114,Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,-0.328210464546258,-0.286157856189057
+0,Public-facing Service and Support,115,Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,-0.3290906429513,-0.286925260012694
+0,Public-facing Service and Support,116,Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,-0.331564768505479,-0.585347213178286
+0,Public-facing Service and Support,117,Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,-0.33194300876481,-0.586014961693032
+0,Public-facing Service and Support,118,Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,-0.334542423507392,-0.24737678954906
+0,Public-facing Service and Support,119,"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",-0.338683234358783,-0.295288781865228
+0,Public-facing Service and Support,120,Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,-0.339102021423,-0.37862174470485
+0,Public-facing Service and Support,121,Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,-0.344749037891834,-0.384926877357363
+0,Public-facing Service and Support,122,Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,-0.352038649782931,-0.342120072001761
+0,Public-facing Service and Support,123,Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,-0.355297496489598,-0.345287101731635
+0,Public-facing Service and Support,124,"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",-0.357728935692744,-0.311894215427129
+0,Public-facing Service and Support,125,Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,-0.359698927634398,-0.438202321243389
+0,Public-facing Service and Support,126,Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,-0.361349083470842,-0.315050524683448
+0,Public-facing Service and Support,127,Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,-0.36368196942388,-0.40606629592809
+0,Public-facing Service and Support,128,Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,-0.364333365994958,-0.317652440166381
+0,Public-facing Service and Support,129,Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,-0.367376376110658,-0.410191257199414
+0,Public-facing Service and Support,130,"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",-0.376271926115881,-0.328061348897888
+0,Public-facing Service and Support,131,"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",-0.38975771603543,-0.288205637670609
+0,Public-facing Service and Support,132,Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,-0.39255613494131,-0.290274923465494
+0,Public-facing Service and Support,133,Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,-0.394024131895752,-0.291360431156417
+0,Public-facing Service and Support,134,Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,-0.394548754961835,-0.343996423264645
+0,Public-facing Service and Support,135,Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,-0.394944282152121,-0.292040834598041
+0,Public-facing Service and Support,136,"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",-0.397924254651514,-0.294244369869041
+0,Public-facing Service and Support,137,Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,-0.397960298988697,-0.386747893243557
+0,Public-facing Service and Support,138,Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,-0.400375162395912,-0.349076310838993
+0,Public-facing Service and Support,139,Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,-0.412651130510606,-0.460742434777352
+0,Public-facing Service and Support,140,Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,-0.413483857515533,-0.305749890044344
+0,Public-facing Service and Support,141,Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,-0.41383757219607,-0.360813823026111
+0,Public-facing Service and Support,142,Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,-0.415086395124907,-0.361902638072182
+0,Public-facing Service and Support,143,Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,-0.416293357153068,-0.507148343817393
+0,Public-facing Service and Support,144,Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,-0.416695508873512,-0.404955244506588
+0,Public-facing Service and Support,145,Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,-0.416790652058646,-0.735805700228544
+0,Public-facing Service and Support,146,Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,-0.417473441620182,-0.363983839561769
+0,Public-facing Service and Support,147,Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,-0.419673699539596,-0.407849525591192
+0,Public-facing Service and Support,148,Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,-0.428312602885443,-0.478229130876431
+0,Public-facing Service and Support,149,Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,-0.43964478245138,-0.49088198850482
+0,Public-facing Service and Support,150,Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,-0.443059452014812,-0.494694611450184
+0,Public-facing Service and Support,151,Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,-0.444339494010369,-0.387407626389733
+0,Public-facing Service and Support,152,Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,-0.444645121639149,-0.387674094880202
+0,Public-facing Service and Support,153,Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,-0.449739928707842,-0.793974628579354
+0,Public-facing Service and Support,154,"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",-0.450300526721356,-0.332973909451334
+0,Public-facing Service and Support,155,Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,-0.454072907788515,-0.801624106058711
+0,Public-facing Service and Support,156,"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",-0.454833014165265,-0.396556643730034
+0,Public-facing Service and Support,157,Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,-0.458463974185085,-0.511894411781595
+0,Public-facing Service and Support,158,Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,-0.466552401519026,-0.406774461634279
+0,Public-facing Service and Support,159,Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,-0.466639299748015,-0.453491884845828
+0,Public-facing Service and Support,160,Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,-0.469256064422248,-0.523944236838551
+0,Public-facing Service and Support,161,Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,-0.47235089474869,-0.459042557461125
+0,Public-facing Service and Support,162,Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,-0.476256525003981,-0.415235225298495
+0,Public-facing Service and Support,163,"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",-0.48137034413908,-0.419693826344813
+0,Public-facing Service and Support,164,Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,-0.484442984674781,-0.855239693593889
+0,Public-facing Service and Support,165,Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,-0.484633507355208,-0.541113802056548
+0,Public-facing Service and Support,166,Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,-0.488025506471227,-0.425496282973337
+0,Public-facing Service and Support,167,Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,-0.489778179643313,-0.864658491377107
+0,Public-facing Service and Support,168,Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,-0.492906268625123,-0.550350689800236
+0,Public-facing Service and Support,169,"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",-0.500081818316611,-0.436007856259069
+0,Public-facing Service and Support,170,Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,-0.500482357662941,-0.883555736706868
+0,Public-facing Service and Support,171,Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,-0.500943792284238,-0.610273525237018
+0,Public-facing Service and Support,172,Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,-0.507438682224633,-0.566576744038217
+0,Public-facing Service and Support,173,Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,-0.515328165189975,-0.627797251644485
+0,Public-facing Service and Support,174,Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,-0.516944473121363,-0.38225365499293
+0,Public-facing Service and Support,175,Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,-0.53849693129752,-0.523324950319609
+0,Public-facing Service and Support,176,Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,-0.538711097717202,-0.469687683606082
+0,Public-facing Service and Support,177,Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,-0.540708863599587,-0.60372430826084
+0,Public-facing Service and Support,178,"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",-0.546398840936331,-0.476390419673803
+0,Public-facing Service and Support,179,Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,-0.555237283485663,-0.53959364837158
+0,Public-facing Service and Support,180,Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,-0.556565965991341,-0.485254861925424
+0,Public-facing Service and Support,181,Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,-0.561572514829571,-0.627019457008291
+0,Public-facing Service and Support,182,Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,-0.566905218993245,-0.494269377893742
+0,Public-facing Service and Support,183,Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,-0.595528351126939,-0.664932583942395
+0,Public-facing Service and Support,184,Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,-0.647825303033161,-0.723324341946042
+0,Public-facing Service and Support,185,Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,-0.652470296502118,-0.728510673552026
+0,Public-facing Service and Support,186,Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,-0.66029788578275,-0.737250507947083
+0,Public-facing Service and Support,187,Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,-0.817959798903065,-0.604838892811943
+1,STEM and Computing,1,Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,1.43108260237909,2.52644518567626
+1,STEM and Computing,2,Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,1.28183940532701,1.43122789430656
+1,STEM and Computing,3,Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,1.268337079031,1.23260208237973
+1,STEM and Computing,4,Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,1.20566256319879,1.171693401238
+1,STEM and Computing,5,Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,1.17586915958611,1.31290763434217
+1,STEM and Computing,6,Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,1.15385172221081,1.1213423143326
+1,STEM and Computing,7,Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,1.14043295920652,1.27334161831806
+1,STEM and Computing,8,Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,1.13957023090977,2.0118068089401
+1,STEM and Computing,9,Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,1.13450976327932,0.989148478657997
+1,STEM and Computing,10,Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,1.12487243545764,1.3703730382573
+1,STEM and Computing,11,Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,1.12073046517776,1.2513429506814
+1,STEM and Computing,12,Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,1.09642580101889,0.955944098624911
+1,STEM and Computing,13,Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,1.07534257743763,1.20066545494568
+1,STEM and Computing,14,Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,1.04939602901003,0.914940108231976
+1,STEM and Computing,15,Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,1.01352336833644,1.1316416941673
+1,STEM and Computing,16,Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,1.01064093095897,1.23121079287713
+1,STEM and Computing,17,Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,1.0052865088659,0.976962878955676
+1,STEM and Computing,18,Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,0.977957688563441,0.950404039534587
+1,STEM and Computing,19,"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",0.938000082600672,0.817816985552988
+1,STEM and Computing,20,Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,0.919066518190933,1.62252771177539
+1,STEM and Computing,21,Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,0.909002431290925,1.6047604886574
+1,STEM and Computing,22,Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,0.832085575359725,1.4689708284088
+1,STEM and Computing,23,Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,0.826160462250335,1.00646792209949
+1,STEM and Computing,24,Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,0.809314897987898,0.903634302756246
+1,STEM and Computing,25,Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,0.793127119876106,1.4001932455255
+1,STEM and Computing,26,Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,0.789084385350338,0.583487020524161
+1,STEM and Computing,27,Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,0.775842666195748,0.945168392584677
+1,STEM and Computing,28,"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",0.767236985356524,0.668933244471961
+1,STEM and Computing,29,Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,0.765752424143486,0.667638895570893
+1,STEM and Computing,30,Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,0.749671617639694,0.554343320776657
+1,STEM and Computing,31,Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,0.72776921819214,0.886603034483955
+1,STEM and Computing,32,Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,0.723391706015006,0.630705727388603
+1,STEM and Computing,33,Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,0.720784365692866,0.62843245765002
+1,STEM and Computing,34,Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,0.698447469220942,0.608957519770878
+1,STEM and Computing,35,Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,0.634076689767842,0.552834372463607
+1,STEM and Computing,36,Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,0.593379693395798,0.517351758430389
+1,STEM and Computing,37,Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,0.591001645581174,0.574350360859706
+1,STEM and Computing,38,Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,0.566819402517433,0.690526323062568
+1,STEM and Computing,39,Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,0.55757664446026,0.984350467750979
+1,STEM and Computing,40,Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.555400819167191,0.484239001819303
+1,STEM and Computing,41,Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,0.55409656315299,0.48310185616046
+1,STEM and Computing,42,"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.515809392106645,0.449720303865007
+1,STEM and Computing,43,"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",0.512401113808211,0.446748717896461
+1,STEM and Computing,44,Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,0.510091650452463,0.621417880629135
+1,STEM and Computing,45,Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,0.50760629597883,0.442568245489009
+1,STEM and Computing,46,Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,0.495737642125749,0.875179376246324
+1,STEM and Computing,47,Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,0.492914230377711,0.479026527602854
+1,STEM and Computing,48,"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",0.461170932641133,0.341012011433547
+1,STEM and Computing,49,Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,0.432862446584658,0.483309223741412
+1,STEM and Computing,50,Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,0.432398284523066,0.319736128860422
+1,STEM and Computing,51,"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.426387104440048,0.371755421881215
+1,STEM and Computing,52,Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,0.420391811295426,0.310857963963662
+1,STEM and Computing,53,Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,0.41021936284027,0.499748715398727
+1,STEM and Computing,54,Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,0.402359416176486,0.490173354983919
+1,STEM and Computing,55,Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,0.400602201893039,0.34927426045604
+1,STEM and Computing,56,Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,0.383573562142137,0.467287535171973
+1,STEM and Computing,57,Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,0.38013531771039,0.369425125183503
+1,STEM and Computing,58,Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,0.37240975505778,0.657455293775815
+1,STEM and Computing,59,Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,0.349673439301806,0.617316411934752
+1,STEM and Computing,60,Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,0.323854686728281,0.282360170931973
+1,STEM and Computing,61,Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,0.309662926489194,0.300938271329252
+1,STEM and Computing,62,Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,0.307387715613564,0.227297289946316
+1,STEM and Computing,63,Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,0.306999462798265,0.374001329677048
+1,STEM and Computing,64,Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,0.304510925049436,0.339999323035843
+1,STEM and Computing,65,Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,0.300743583540259,0.335792926951508
+1,STEM and Computing,66,Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,0.299036316180172,0.22112186275112
+1,STEM and Computing,67,Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,0.297665716981402,0.33235635880133
+1,STEM and Computing,68,Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,0.263283316199436,0.255865391912376
+1,STEM and Computing,69,Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,0.259933622338966,0.2902268797586
+1,STEM and Computing,70,Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,0.238356355670714,0.266134949201499
+1,STEM and Computing,71,Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,0.238086950280916,0.29004883322004
+1,STEM and Computing,72,Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,0.229147468584295,0.169442680893428
+1,STEM and Computing,73,Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,0.223020137051556,0.216736615121571
+1,STEM and Computing,74,Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,0.216935269718896,0.160412392546186
+1,STEM and Computing,75,Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,0.198458338247708,0.173030475107849
+1,STEM and Computing,76,Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,0.194554999861043,0.169627259594131
+1,STEM and Computing,77,Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,0.1749208368189,0.169992497482849
+1,STEM and Computing,78,Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,0.171119690013574,0.126534145058147
+1,STEM and Computing,79,Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,0.169583418402008,0.189347056909127
+1,STEM and Computing,80,"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",0.15344522670548,0.113464795155316
+1,STEM and Computing,81,"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.143009067863322,0.124685751052876
+1,STEM and Computing,82,Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,0.136851666995067,0.119317279226141
+1,STEM and Computing,83,Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,0.135739068168185,0.100372008272621
+1,STEM and Computing,84,Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,0.134565411570211,0.130774073595993
+1,STEM and Computing,85,Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,0.131575489367613,0.127868391507214
+1,STEM and Computing,86,Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,0.127912274786888,0.142819463138986
+1,STEM and Computing,87,Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,0.117307874790264,0.130979202171443
+1,STEM and Computing,88,Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,0.113308657583348,0.0987907639890043
+1,STEM and Computing,89,Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,0.108832136783945,0.105765825700068
+1,STEM and Computing,90,Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,0.102307269124386,0.0994247941262147
+1,STEM and Computing,91,Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,0.0948177845844748,0.0826690702954872
+1,STEM and Computing,92,"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",0.0888478202939109,0.0774640193679529
+1,STEM and Computing,93,Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,0.0865187777158099,0.0639761535851161
+1,STEM and Computing,94,Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,0.08309353557651,0.0927774458012682
+1,STEM and Computing,95,"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",0.0699029483431356,0.0609464962271086
+1,STEM and Computing,96,Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,0.0359645500501711,0.0349512602103841
+1,STEM and Computing,97,Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,0.035147110399502,0.0306438180667578
+1,STEM and Computing,98,Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,0.0326639458550603,0.0397927705506092
+1,STEM and Computing,99,Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,0.0313937670289207,0.0273713791640197
+1,STEM and Computing,100,Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,0.0236830741122705,0.0175124062865424
+1,STEM and Computing,101,Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,0.0178390436325311,0.0173364342118892
+1,STEM and Computing,102,Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,0.0162448586726128,0.0181380715670697
+1,STEM and Computing,103,Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,0.0143542406747724,0.0160271166340711
+1,STEM and Computing,104,Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,0.00414789041840794,0.00403102491580448
+1,STEM and Computing,105,Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,-0.00402636132184685,-0.00351047589446937
+1,STEM and Computing,106,Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,-0.021360157337278,-0.0207583416499992
+1,STEM and Computing,107,Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,-0.0222019423595014,-0.024789407378687
+1,STEM and Computing,108,Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,-0.0367092327170938,-0.0447209311784335
+1,STEM and Computing,109,Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,-0.0381710623800728,-0.0370956047522238
+1,STEM and Computing,110,Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,-0.0450140516443534,-0.0392465381466111
+1,STEM and Computing,111,"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",-0.0615977850939192,-0.0537054482794708
+1,STEM and Computing,112,"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",-0.0733305201835532,-0.0542241204233076
+1,STEM and Computing,113,Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,-0.0746935919769278,-0.0725891236117782
+1,STEM and Computing,114,Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,-0.0756988587861668,-0.0659997942970969
+1,STEM and Computing,115,Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,-0.0851336737233167,-0.0629519409448709
+1,STEM and Computing,116,Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,-0.0854581273293152,-0.0631918575765734
+1,STEM and Computing,117,Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,-0.0903326279338939,-0.066796298225904
+1,STEM and Computing,118,Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,-0.0939753980379888,-0.0694899379860535
+1,STEM and Computing,119,Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,-0.0947768864944303,-0.0921065776487061
+1,STEM and Computing,120,Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,-0.113434679047047,-0.083879068107386
+1,STEM and Computing,121,Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,-0.116806872274879,-0.0863726302861203
+1,STEM and Computing,122,Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,-0.120166651882872,-0.0888570132361332
+1,STEM and Computing,123,Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,-0.124889639610431,-0.121370913455498
+1,STEM and Computing,124,Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,-0.14594525250443,-0.14183329110573
+1,STEM and Computing,125,Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,-0.151488775716722,-0.112018101012807
+1,STEM and Computing,126,"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",-0.171989554525481,-0.127177364797043
+1,STEM and Computing,127,"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",-0.18001805080165,-0.133114021837077
+1,STEM and Computing,128,Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,-0.18417271081703,-0.178983702852892
+1,STEM and Computing,129,Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,-0.196417945505584,-0.219308941027805
+1,STEM and Computing,130,Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,-0.211744423660272,-0.236421601915988
+1,STEM and Computing,131,Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,-0.215309696377018,-0.159210365280781
+1,STEM and Computing,132,Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,-0.218701879825174,-0.244189895896686
+1,STEM and Computing,133,"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",-0.224266239197816,-0.1658332646585
+1,STEM and Computing,134,Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,-0.228547393693492,-0.278427292205909
+1,STEM and Computing,135,Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,-0.233142564049388,-0.20327071657214
+1,STEM and Computing,136,"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",-0.234889802824787,-0.173688839554077
+1,STEM and Computing,137,Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,-0.24135832457653,-0.26948677441298
+1,STEM and Computing,138,Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,-0.241378668479899,-0.269509489241265
+1,STEM and Computing,139,Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,-0.242441520108448,-0.17927294323106
+1,STEM and Computing,140,Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,-0.259528380917797,-0.25221625074646
+1,STEM and Computing,141,Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,-0.259592716766495,-0.252278773952938
+1,STEM and Computing,142,Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,-0.260399450362319,-0.317230980780824
+1,STEM and Computing,143,"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",-0.265407972578349,-0.19625544494122
+1,STEM and Computing,144,Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,-0.265913495976578,-0.258421467204928
+1,STEM and Computing,145,Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,-0.280765775288105,-0.207611744357707
+1,STEM and Computing,146,Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,-0.283043907464354,-0.209296305072071
+1,STEM and Computing,147,Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,-0.299626308129302,-0.221558131230033
+1,STEM and Computing,148,Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,-0.301613920757881,-0.223027867790707
+1,STEM and Computing,149,Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,-0.302795812215155,-0.26399950594598
+1,STEM and Computing,150,Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,-0.31573478102618,-0.275280644045519
+1,STEM and Computing,151,Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,-0.318198361439256,-0.387644360008346
+1,STEM and Computing,152,Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,-0.327375547467786,-0.242077256033442
+1,STEM and Computing,153,Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,-0.32934351729998,-0.401221918331658
+1,STEM and Computing,154,Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,-0.342837428509652,-0.333178092232041
+1,STEM and Computing,155,Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,-0.363057903509002,-0.26846250962394
+1,STEM and Computing,156,"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",-0.365718616857234,-0.318860203049813
+1,STEM and Computing,157,Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,-0.386354025599221,-0.28568878493815
+1,STEM and Computing,158,Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,-0.398107200900441,-0.294379649141682
+1,STEM and Computing,159,"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",-0.39872622256575,-0.294837383591681
+1,STEM and Computing,160,Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,-0.421823032824152,-0.311916278132603
+1,STEM and Computing,161,Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,-0.427657927838706,-0.520993203703778
+1,STEM and Computing,162,Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,-0.433812618569989,-0.421590085043079
+1,STEM and Computing,163,Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,-0.437756099483739,-0.425422459627466
+1,STEM and Computing,164,Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,-0.440302025716936,-0.325580535980654
+1,STEM and Computing,165,Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,-0.469849082356817,-0.347429053533574
+1,STEM and Computing,166,Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,-0.507269379593254,-0.492977225022714
+1,STEM and Computing,167,"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",-0.507563362572054,-0.375316809776821
+1,STEM and Computing,168,Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,-0.510644184295004,-0.377594917823646
+1,STEM and Computing,169,"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",-0.524539189302869,-0.387869554127097
+1,STEM and Computing,170,"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",-0.528705776864801,-0.390950529758348
+1,STEM and Computing,171,Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,-0.548233857955592,-0.667884529765789
+1,STEM and Computing,172,Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,-0.555190347761793,-0.410534497771713
+1,STEM and Computing,173,Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,-0.572337713311299,-0.423214086190989
+1,STEM and Computing,174,Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,-0.587195174722703,-0.715349056719842
+1,STEM and Computing,175,"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",-0.588054251307016,-0.434835651765379
+1,STEM and Computing,176,Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,-0.625541770721313,-0.4625557301448
+1,STEM and Computing,177,Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,-0.630369110734739,-0.466125297980363
+1,STEM and Computing,178,Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,-0.633611087927923,-0.468522572147965
+1,STEM and Computing,179,Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,-0.660118195338889,-0.575539259147973
+1,STEM and Computing,180,Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,-0.660811456121726,-0.576143694535708
+1,STEM and Computing,181,Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,-0.68782275435863,-0.599694117301909
+1,STEM and Computing,182,Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,-0.727096470580287,-0.537650169144034
+1,STEM and Computing,183,Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,-0.730500430736431,-0.63690363283727
+1,STEM and Computing,184,Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,-0.781665787142166,-0.578001351506607
+1,STEM and Computing,185,"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",-0.789539965924671,-0.583823898755262
+1,STEM and Computing,186,Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,-0.79460181521557,-0.587566874051596
+1,STEM and Computing,187,Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,-0.821956067741499,-0.607793926571376
+2,Physical and Technical Work,1,Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,1.09264021505696,0.807950829372211
+2,Physical and Technical Work,2,Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,1.03497224917026,0.902364403423786
+2,Physical and Technical Work,3,"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",1.0250233288953,0.75795164528485
+2,Physical and Technical Work,4,Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,1.0241863203547,0.757332720834471
+2,Physical and Technical Work,5,Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,1.0188982207376,0.888349891354614
+2,Physical and Technical Work,6,Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,1.01670919130281,0.886441335601955
+2,Physical and Technical Work,7,Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,1.00892682636956,0.746049115626461
+2,Physical and Technical Work,8,Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,1.00344251111691,1.12038599084662
+2,Physical and Technical Work,9,Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,0.977355144948563,1.09125834350331
+2,Physical and Technical Work,10,"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",0.960786410932895,0.71045177256478
+2,Physical and Technical Work,11,Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,0.960156331246409,1.07205514081099
+2,Physical and Technical Work,12,"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",0.938159075293167,0.693720030180899
+2,Physical and Technical Work,13,Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,0.934920295324864,0.691325120195448
+2,Physical and Technical Work,14,Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,0.926271358117363,0.684929679231723
+2,Physical and Technical Work,15,Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,0.895592015038015,0.99996635187981
+2,Physical and Technical Work,16,Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,0.88679425958913,0.65573841017759
+2,Physical and Technical Work,17,Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,0.882217174457023,0.985032776861076
+2,Physical and Technical Work,18,Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,0.880533573454261,0.983152965156098
+2,Physical and Technical Work,19,Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,0.872356129204235,0.760583792206555
+2,Physical and Technical Work,20,Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,0.862067938988847,0.8377794470554
+2,Physical and Technical Work,21,Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,0.856218727914503,0.63312938862174
+2,Physical and Technical Work,22,"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",0.834862332410677,0.617337440620981
+2,Physical and Technical Work,23,"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",0.831182238251827,0.614616201656099
+2,Physical and Technical Work,24,Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,0.829655563793875,0.613487304991409
+2,Physical and Technical Work,25,"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",0.828890152407966,0.612921322927474
+2,Physical and Technical Work,26,"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",0.825502938366341,0.719733758176336
+2,Physical and Technical Work,27,"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",0.813902127118663,0.601838454755252
+2,Physical and Technical Work,28,"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",0.808871318636814,0.598118432528987
+2,Physical and Technical Work,29,Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,0.807764876153244,0.597300275637145
+2,Physical and Technical Work,30,Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,0.8062719911877,0.596196364551459
+2,Physical and Technical Work,31,Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,0.74865326878021,0.553590304555698
+2,Physical and Technical Work,32,"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",0.742649230628835,0.647495843957919
+2,Physical and Technical Work,33,Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,0.728525354507354,0.538706754777658
+2,Physical and Technical Work,34,Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,0.715737222593965,0.529250593780505
+2,Physical and Technical Work,35,Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,0.703526260358502,0.52022121985703
+2,Physical and Technical Work,36,Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,0.678793815155747,0.75790199513007
+2,Physical and Technical Work,37,"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",0.654952509469589,0.484303447679507
+2,Physical and Technical Work,38,Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,0.589446020211361,0.513922094824255
+2,Physical and Technical Work,39,Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,0.580745452269322,0.564383132555432
+2,Physical and Technical Work,40,Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,0.553684878117897,0.618212577117574
+2,Physical and Technical Work,41,"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",0.546900832603455,0.404404830791696
+2,Physical and Technical Work,42,Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,0.47590932188588,0.462500727037504
+2,Physical and Technical Work,43,"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",0.454014103501823,0.335719907080168
+2,Physical and Technical Work,44,Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,0.426687300383595,0.315513151975229
+2,Physical and Technical Work,45,Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,0.310926382904733,0.229913951069871
+2,Physical and Technical Work,46,Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,0.30725885521369,0.227202004356864
+2,Physical and Technical Work,47,Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,0.296191184061396,0.21901803495551
+2,Physical and Technical Work,48,"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",0.268522008827361,0.234117100720251
+2,Physical and Technical Work,49,Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,0.180869835092947,0.175773884609262
+2,Physical and Technical Work,50,Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,0.17871573317354,0.217719996093394
+2,Physical and Technical Work,51,Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,0.171026943606692,0.126465563895447
+2,Physical and Technical Work,52,Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,0.0934446468697329,0.0690974749953332
+2,Physical and Technical Work,53,Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,0.0922991069150426,0.0896986087264659
+2,Physical and Technical Work,54,Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,0.0862696195167751,0.0637919140058099
+2,Physical and Technical Work,55,"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.0603488976682579,0.052616577000358
+2,Physical and Technical Work,56,Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,0.058166635876627,0.0565278092802657
+2,Physical and Technical Work,57,Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,0.0466796442338554,0.0453644599993501
+2,Physical and Technical Work,58,Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,0.0300011095051097,0.0221842661222902
+2,Physical and Technical Work,59,Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,0.0129016761082552,0.0125381754583518
+2,Physical and Technical Work,60,Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,0.00909057549356206,0.00672200959499856
+2,Physical and Technical Work,61,Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,0.00351644075533373,0.00341736614757066
+2,Physical and Technical Work,62,Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,-0.0272199869355208,-0.0264530723998899
+2,Physical and Technical Work,63,"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",-0.0353070190298782,-0.0307832380907898
+2,Physical and Technical Work,64,Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,-0.0678371070094044,-0.0501620259946246
+2,Physical and Technical Work,65,Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,-0.0687957255828321,-0.0508708747636699
+2,Physical and Technical Work,66,Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,-0.104102907395193,-0.0769787064496978
+2,Physical and Technical Work,67,Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,-0.170238336802694,-0.125882430021589
+2,Physical and Technical Work,68,Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,-0.187997946309978,-0.139014741127298
+2,Physical and Technical Work,69,Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,-0.206064580361376,-0.200258775886444
+2,Physical and Technical Work,70,Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,-0.209931025636441,-0.255747948262988
+2,Physical and Technical Work,71,Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,-0.238575779644645,-0.176414428441995
+2,Physical and Technical Work,72,"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",-0.244411263042064,-0.213095591443945
+2,Physical and Technical Work,73,Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,-0.249109149936212,-0.278140898644591
+2,Physical and Technical Work,74,Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,-0.263834505996318,-0.256401052110801
+2,Physical and Technical Work,75,Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,-0.284448503093556,-0.248002981726886
+2,Physical and Technical Work,76,Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,-0.295547769031292,-0.218542262876065
+2,Physical and Technical Work,77,Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,-0.309064261776527,-0.300356473805801
+2,Physical and Technical Work,78,Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,-0.313590590357165,-0.231883994448423
+2,Physical and Technical Work,79,Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,-0.317430109212991,-0.35442413839861
+2,Physical and Technical Work,80,Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,-0.326338205943641,-0.317143730051247
+2,Physical and Technical Work,81,Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,-0.348466761899967,-0.33864882093187
+2,Physical and Technical Work,82,Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,-0.360153112761827,-0.350005912548835
+2,Physical and Technical Work,83,Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,-0.37018246012559,-0.359752686217968
+2,Physical and Technical Work,84,Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,-0.375785358504323,-0.365197724704318
+2,Physical and Technical Work,85,"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",-0.378450517877753,-0.279844550458664
+2,Physical and Technical Work,86,Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,-0.382520301534243,-0.427100090244692
+2,Physical and Technical Work,87,Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,-0.383793795149561,-0.283795627166103
+2,Physical and Technical Work,88,Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,-0.384240521301151,-0.284125958010333
+2,Physical and Technical Work,89,Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,-0.386460133795991,-0.33694417252199
+2,Physical and Technical Work,90,Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,-0.39788767802777,-0.386677318355271
+2,Physical and Technical Work,91,Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,-0.415586384866206,-0.50628707659262
+2,Physical and Technical Work,92,Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,-0.418194704953373,-0.309233317655739
+2,Physical and Technical Work,93,Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,-0.429525594272453,-0.374491786559147
+2,Physical and Technical Work,94,"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",-0.433434167402357,-0.377899566104379
+2,Physical and Technical Work,95,Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,-0.434156902819268,-0.378529699630989
+2,Physical and Technical Work,96,Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,-0.441157448003961,-0.384633286257868
+2,Physical and Technical Work,97,Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,-0.442740798588938,-0.430266716409582
+2,Physical and Technical Work,98,Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,-0.447866245942033,-0.500061600109008
+2,Physical and Technical Work,99,Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,-0.448576959565517,-0.791921513136659
+2,Physical and Technical Work,100,Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,-0.461778392875286,-0.402612132194815
+2,Physical and Technical Work,101,Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,-0.46443563641022,-0.451350309026641
+2,Physical and Technical Work,102,Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,-0.470178906739599,-0.45693176452826
+2,Physical and Technical Work,103,Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,-0.471903264604136,-0.458607539154528
+2,Physical and Technical Work,104,Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,-0.494278918003676,-0.430948463909942
+2,Physical and Technical Work,105,Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,-0.495874762900011,-0.366673695905404
+2,Physical and Technical Work,106,Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,-0.507494010857318,-0.895934167852014
+2,Physical and Technical Work,107,Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,-0.511661166996202,-0.571291326819211
+2,Physical and Technical Work,108,"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",-0.51489378215499,-0.448922008231036
+2,Physical and Technical Work,109,Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,-0.523960588352462,-0.387441708701572
+2,Physical and Technical Work,110,Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,-0.540773366733551,-0.471485720367096
+2,Physical and Technical Work,111,Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,-0.54989985259004,-0.534406597905841
+2,Physical and Technical Work,112,Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,-0.559408015904659,-0.487732768629287
+2,Physical and Technical Work,113,Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,-0.560276380944512,-0.48848987269828
+2,Physical and Technical Work,114,Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,-0.560502353386941,-0.544710376591139
+2,Physical and Technical Work,115,Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,-0.570988105969771,-0.554900696406428
+2,Physical and Technical Work,116,Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,-0.572651444624492,-0.423446074242684
+2,Physical and Technical Work,117,Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,-0.582483907453235,-0.507852016394043
+2,Physical and Technical Work,118,Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,-0.588189946407278,-0.512826957935525
+2,Physical and Technical Work,119,Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,-0.589203754382048,-0.717796003879
+2,Physical and Technical Work,120,Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,-0.597763839863482,-0.580922032453661
+2,Physical and Technical Work,121,"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",-0.599038661398322,-0.442958053925885
+2,Physical and Technical Work,122,Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,-0.606155929473855,-0.528491014246978
+2,Physical and Technical Work,123,Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,-0.617835656076683,-0.600428331583887
+2,Physical and Technical Work,124,Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,-0.644771016942114,-0.719914102385195
+2,Physical and Technical Work,125,Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,-0.648172179450254,-0.789634140608779
+2,Physical and Technical Work,126,Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,-0.651278795692167,-0.567832424887217
+2,Physical and Technical Work,127,Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,-0.678599003871828,-0.501788805165674
+2,Physical and Technical Work,128,Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,-0.679061288456588,-0.758200640379665
+2,Physical and Technical Work,129,Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,-0.681127758647735,-0.593856931024278
+2,Physical and Technical Work,130,Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,-0.685809817132586,-0.507120827979949
+2,Physical and Technical Work,131,Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,-0.689225400492533,-0.669806692496241
+2,Physical and Technical Work,132,Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,-0.68979703185833,-0.670362218328831
+2,Physical and Technical Work,133,Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,-0.693143843849747,-0.673614734949339
+2,Physical and Technical Work,134,Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,-0.698634110489409,-0.609120247261407
+2,Physical and Technical Work,135,Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,-0.69936824403502,-0.780874214894159
+2,Physical and Technical Work,136,Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,-0.702360062426868,-0.61236880431202
+2,Physical and Technical Work,137,Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,-0.705967831935605,-0.615514321288975
+2,Physical and Technical Work,138,"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",-0.71321226469406,-0.621830546916732
+2,Physical and Technical Work,139,Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,-0.728954308401605,-0.635555610453671
+2,Physical and Technical Work,140,Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,-0.733236280164929,-0.893263269093528
+2,Physical and Technical Work,141,Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,-0.733449960598625,-0.81892789246794
+2,Physical and Technical Work,142,"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",-0.735470652848503,-0.641237035510278
+2,Physical and Technical Work,143,Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,-0.735941424682778,-1.29923714133519
+2,Physical and Technical Work,144,Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,-0.738205427036136,-0.64362141140084
+2,Physical and Technical Work,145,Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,-0.747492724737803,-0.651718755901335
+2,Physical and Technical Work,146,Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,-0.75069256777544,-0.838179992426385
+2,Physical and Technical Work,147,Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,-0.759720391973784,-0.561773868769967
+2,Physical and Technical Work,148,Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,-0.766171703911551,-0.855463102405454
+2,Physical and Technical Work,149,Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,-0.773711417273407,-0.863881511165333
+2,Physical and Technical Work,150,Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,-0.782605312440493,-0.953406969501446
+2,Physical and Technical Work,151,Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,-0.793738646355029,-0.692039328268727
+2,Physical and Technical Work,152,Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,-0.794395126906731,-0.967769881562684
+2,Physical and Technical Work,153,Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,-0.795245032938216,-0.968805277465264
+2,Physical and Technical Work,154,Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,-0.799088226513727,-1.41071703300003
+2,Physical and Technical Work,155,Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,-0.802035627947253,-0.779438527418746
+2,Physical and Technical Work,156,Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,-0.807735255942806,-0.901870565623062
+2,Physical and Technical Work,157,Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,-0.822315645688877,-1.00178398391522
+2,Physical and Technical Work,158,Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,-0.836444269815401,-1.01899614501044
+2,Physical and Technical Work,159,Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,-0.859577769241496,-0.635613225651203
+2,Physical and Technical Work,160,Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,-0.861713360801177,-0.751304649342094
+2,Physical and Technical Work,161,Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,-0.869632141015268,-0.970981054907634
+2,Physical and Technical Work,162,Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,-0.869733857389411,-0.758297504102022
+2,Physical and Technical Work,163,Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,-0.878526836440932,-1.07026312681788
+2,Physical and Technical Work,164,Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,-0.8841077842215,-1.07706210252866
+2,Physical and Technical Work,165,Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,-0.890262867685433,-0.658303266156306
+2,Physical and Technical Work,166,"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",-0.895569980924716,-0.662227601435351
+2,Physical and Technical Work,167,Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,-0.903870786822149,-1.00920995061676
+2,Physical and Technical Work,168,Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,-0.90614532543885,-0.790043681519395
+2,Physical and Technical Work,169,Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,-0.907531862923208,-1.60216433497162
+2,Physical and Technical Work,170,Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,-0.918979814812496,-1.62237464490653
+2,Physical and Technical Work,171,Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,-0.933609704690198,-1.13736769364635
+2,Physical and Technical Work,172,Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,-0.938804609299605,-0.818518430693477
+2,Physical and Technical Work,173,Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,-0.939619179621885,-1.14468872148993
+2,Physical and Technical Work,174,Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,-0.940750984291138,-1.05038825044573
+2,Physical and Technical Work,175,Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,-0.945468782646993,-1.15181498578216
+2,Physical and Technical Work,176,Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,-0.952940080025133,-1.1609168751743
+2,Physical and Technical Work,177,Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,-0.954563325727023,-1.0658103136672
+2,Physical and Technical Work,178,Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,-0.960154496077965,-1.16970581953274
+2,Physical and Technical Work,179,Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,-0.971031885051086,-0.943673368348973
+2,Physical and Technical Work,180,Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,-0.992340205679912,-1.75188569201045
+2,Physical and Technical Work,181,Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,-1.02074656050814,-1.8020345082137
+2,Physical and Technical Work,182,Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,-1.02402733304736,-1.24751874382602
+2,Physical and Technical Work,183,Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,-1.04762378640009,-1.2762650642565
+2,Physical and Technical Work,184,Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,-1.05417637473626,-0.779508812265665
+2,Physical and Technical Work,185,Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,-1.0705624579514,-1.30421004364837
+2,Physical and Technical Work,186,Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,-1.09039897925229,-1.92499947034399
+2,Physical and Technical Work,187,Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,-1.12025940841796,-1.97771532153415
+3,Interpersonal Support and Coordination,1,Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,1.23339085644341,1.37713304099443
+3,Interpersonal Support and Coordination,2,Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,1.08541932553863,1.32230938552282
+3,Interpersonal Support and Coordination,3,Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,1.06846187493028,1.19298285966891
+3,Interpersonal Support and Coordination,4,Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,1.05908988339214,1.86972613086502
+3,Interpersonal Support and Coordination,5,Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,1.03968254266592,1.16084951835869
+3,Interpersonal Support and Coordination,6,Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,1.03898008696437,1.16006519686693
+3,Interpersonal Support and Coordination,7,Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,1.03404759933804,1.15455786587852
+3,Interpersonal Support and Coordination,8,Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,1.02881455442509,1.81627781209822
+3,Interpersonal Support and Coordination,9,Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,1.02560927138639,0.894201075499788
+3,Interpersonal Support and Coordination,10,Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,1.02462165436371,1.80887563129016
+3,Interpersonal Support and Coordination,11,Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,1.01911468765084,0.888538623020787
+3,Interpersonal Support and Coordination,12,Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,1.01426085777127,1.79058459440157
+3,Interpersonal Support and Coordination,13,Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,1.00962793159344,0.981181983468922
+3,Interpersonal Support and Coordination,14,Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,0.995706399834381,1.11174829550429
+3,Interpersonal Support and Coordination,15,Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,0.995232871736336,1.21243996316791
+3,Interpersonal Support and Coordination,16,Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,0.991831737491492,1.10742207117142
+3,Interpersonal Support and Coordination,17,Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,0.982875499738129,1.19738562555925
+3,Interpersonal Support and Coordination,18,Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,0.976267218036706,0.94876119748108
+3,Interpersonal Support and Coordination,19,Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,0.97034523476318,1.0834314823909
+3,Interpersonal Support and Coordination,20,Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,0.968637725328596,1.18004049240406
+3,Interpersonal Support and Coordination,21,Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,0.96220679870121,0.935096926019974
+3,Interpersonal Support and Coordination,22,Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,0.962100444144228,1.17207646590987
+3,Interpersonal Support and Coordination,23,Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,0.953862872851062,1.16204106523238
+3,Interpersonal Support and Coordination,24,Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,0.930796572599987,1.64323604785621
+3,Interpersonal Support and Coordination,25,Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,0.918609565482423,1.02566642017053
+3,Interpersonal Support and Coordination,26,Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,0.910567033206968,0.884912094610305
+3,Interpersonal Support and Coordination,27,Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,0.909905162131012,0.793321781774174
+3,Interpersonal Support and Coordination,28,Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,0.908770500561813,0.792332500940026
+3,Interpersonal Support and Coordination,29,Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,0.905543977132022,0.880030561553953
+3,Interpersonal Support and Coordination,30,Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,0.899801404922159,1.58851691981378
+3,Interpersonal Support and Coordination,31,Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,0.894904814082937,1.09021555722182
+3,Interpersonal Support and Coordination,32,Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,0.88248656336648,0.76941624465788
+3,Interpersonal Support and Coordination,33,Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,0.879379206788647,1.5524634005623
+3,Interpersonal Support and Coordination,34,Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,0.879228803913627,0.854456810030456
+3,Interpersonal Support and Coordination,35,Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,0.878816043942325,1.07061545313496
+3,Interpersonal Support and Coordination,36,Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,0.876864616952345,0.76451462113499
+3,Interpersonal Support and Coordination,37,"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",0.870274848283602,0.758769179478715
+3,Interpersonal Support and Coordination,38,Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,0.866292867031584,1.05535912410523
+3,Interpersonal Support and Coordination,39,Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,0.85920843002883,0.835000503857277
+3,Interpersonal Support and Coordination,40,Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,0.858259836566724,1.51517908787973
+3,Interpersonal Support and Coordination,41,Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,0.855909229997535,1.04270928419274
+3,Interpersonal Support and Coordination,42,"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.850610169952473,0.741624076559274
+3,Interpersonal Support and Coordination,43,Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,0.847682853819428,0.739071828537025
+3,Interpersonal Support and Coordination,44,Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,0.828872680838878,1.00977207562876
+3,Interpersonal Support and Coordination,45,Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,0.822081258632736,0.716750487857739
+3,Interpersonal Support and Coordination,46,Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,0.819824227266657,0.714782643054371
+3,Interpersonal Support and Coordination,47,Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,0.797432052759141,0.58965968808053
+3,Interpersonal Support and Coordination,48,Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,0.796549178832195,0.97039404994713
+3,Interpersonal Support and Coordination,49,Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,0.7906077542033,0.882746985752218
+3,Interpersonal Support and Coordination,50,Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,0.778232022573381,0.575462260511248
+3,Interpersonal Support and Coordination,51,Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,0.775265851097385,0.67593339607045
+3,Interpersonal Support and Coordination,52,Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,0.775078900853289,0.6757703991924
+3,Interpersonal Support and Coordination,53,Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,0.77270197632814,0.941342254988598
+3,Interpersonal Support and Coordination,54,Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,0.769991615173112,0.671334931950144
+3,Interpersonal Support and Coordination,55,Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,0.759588791676933,0.662264990581592
+3,Interpersonal Support and Coordination,56,"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.749467572641352,0.653440572550784
+3,Interpersonal Support and Coordination,57,Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,0.74710987460893,0.910164740914235
+3,Interpersonal Support and Coordination,58,Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,0.74565402646432,0.832554248014782
+3,Interpersonal Support and Coordination,59,Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,0.74495816378957,0.649508940536887
+3,Interpersonal Support and Coordination,60,Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,0.739131459329261,0.718306663885954
+3,Interpersonal Support and Coordination,61,Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,0.729304338788396,0.635860792511847
+3,Interpersonal Support and Coordination,62,"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",0.727987151345979,0.538308781424115
+3,Interpersonal Support and Coordination,63,Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,0.718697538358625,0.875551483158054
+3,Interpersonal Support and Coordination,64,Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,0.689379202329772,0.669956161015288
+3,Interpersonal Support and Coordination,65,Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,0.683318646229844,0.595767106845497
+3,Interpersonal Support and Coordination,66,Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,0.678650179130557,0.75774161943478
+3,Interpersonal Support and Coordination,67,Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,0.665363033126407,0.810576855213428
+3,Interpersonal Support and Coordination,68,Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,0.665165536999379,0.491855452401084
+3,Interpersonal Support and Coordination,69,Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,0.661070506645155,0.488827389617556
+3,Interpersonal Support and Coordination,70,"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",0.655438039669673,0.571458757586924
+3,Interpersonal Support and Coordination,71,Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,0.65540277861494,0.571428014423864
+3,Interpersonal Support and Coordination,72,Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,0.654356023618243,0.635919749303371
+3,Interpersonal Support and Coordination,73,Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,0.649023297144442,0.479919102357404
+3,Interpersonal Support and Coordination,74,Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,0.636194544493073,0.470432904429073
+3,Interpersonal Support and Coordination,75,Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,0.612857035940648,0.684280793221934
+3,Interpersonal Support and Coordination,76,Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,0.605570619091424,0.527980697903246
+3,Interpersonal Support and Coordination,77,Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,0.605438982874448,0.588380930734162
+3,Interpersonal Support and Coordination,78,Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,0.604985451771234,0.737022017352499
+3,Interpersonal Support and Coordination,79,Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,0.601657848163445,0.732968172558742
+3,Interpersonal Support and Coordination,80,Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,0.600111702990259,0.583203745278315
+3,Interpersonal Support and Coordination,81,Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,0.597818447767426,0.580975101797158
+3,Interpersonal Support and Coordination,82,Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,0.591959340995295,0.516113391462039
+3,Interpersonal Support and Coordination,83,Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,0.581564144798063,0.430036554254264
+3,Interpersonal Support and Coordination,84,Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,0.562689492885882,0.628266610235814
+3,Interpersonal Support and Coordination,85,Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,0.543638901270388,0.47398410268111
+3,Interpersonal Support and Coordination,86,Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,0.529645078211237,0.461783265599235
+3,Interpersonal Support and Coordination,87,Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,0.526946971817637,0.389649984549616
+3,Interpersonal Support and Coordination,88,"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",0.52347692024916,0.456405414952384
+3,Interpersonal Support and Coordination,89,Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,0.51521757689021,0.449204316131864
+3,Interpersonal Support and Coordination,90,Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,0.510193768262177,0.621542285396065
+3,Interpersonal Support and Coordination,91,Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,0.497171089714845,0.367632262422313
+3,Interpersonal Support and Coordination,92,"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",0.49043580745933,0.362651870149166
+3,Interpersonal Support and Coordination,93,Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,0.487194800258639,0.473468240621148
+3,Interpersonal Support and Coordination,94,Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,0.472510778031362,0.411969409490357
+3,Interpersonal Support and Coordination,95,Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,0.462708822983837,0.342149201663916
+3,Interpersonal Support and Coordination,96,Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,0.452930550924814,0.440169375691396
+3,Interpersonal Support and Coordination,97,"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",0.446277301814056,0.329998943075568
+3,Interpersonal Support and Coordination,98,Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,0.441897828091111,0.326760549157874
+3,Interpersonal Support and Coordination,99,Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,0.437921016335462,0.32381990290309
+3,Interpersonal Support and Coordination,100,Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,0.423346384459802,0.313042717742355
+3,Interpersonal Support and Coordination,101,Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,0.419738413857246,0.310374810410633
+3,Interpersonal Support and Coordination,102,Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,0.419029849640277,0.365340829757074
+3,Interpersonal Support and Coordination,103,Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.415639151868906,0.362384571776141
+3,Interpersonal Support and Coordination,104,Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,0.409286403070144,0.397754887919379
+3,Interpersonal Support and Coordination,105,Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,0.380421144029431,0.281301726399737
+3,Interpersonal Support and Coordination,106,Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,0.367194705220693,0.356849110363961
+3,Interpersonal Support and Coordination,107,Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,0.364588954660665,0.317875281033889
+3,Interpersonal Support and Coordination,108,Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,0.358781782807008,0.265300539910523
+3,Interpersonal Support and Coordination,109,Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,0.345199292929215,0.385429606144115
+3,Interpersonal Support and Coordination,110,Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,0.345162450765965,0.255229749483427
+3,Interpersonal Support and Coordination,111,Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,0.311717692231465,0.230499083319273
+3,Interpersonal Support and Coordination,112,Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,0.307640409559993,0.227484144027634
+3,Interpersonal Support and Coordination,113,Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,0.298507533931801,0.290097178434206
+3,Interpersonal Support and Coordination,114,Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,0.200831316012282,0.195172957107681
+3,Interpersonal Support and Coordination,115,Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,0.183143011069808,0.177983014570861
+3,Interpersonal Support and Coordination,116,Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,0.182424015276965,0.322052881072012
+3,Interpersonal Support and Coordination,117,"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.177385257549292,0.154657424131871
+3,Interpersonal Support and Coordination,118,Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,0.170645449680495,0.126183468902215
+3,Interpersonal Support and Coordination,119,Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,0.161757927419475,0.157200448898806
+3,Interpersonal Support and Coordination,120,Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,0.155268177287536,0.150893545427323
+3,Interpersonal Support and Coordination,121,Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,0.117950208555909,0.087218068229718
+3,Interpersonal Support and Coordination,122,Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,0.0815036133690648,0.0792072748018478
+3,Interpersonal Support and Coordination,123,Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,0.0686653245187051,0.121222337735629
+3,Interpersonal Support and Coordination,124,Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,0.0537052675027413,0.0397122628497011
+3,Interpersonal Support and Coordination,125,Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,0.00592156687040811,0.00575472859390987
+3,Interpersonal Support and Coordination,126,Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,0.00304115007177891,0.00224877291617088
+3,Interpersonal Support and Coordination,127,Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,-0.0252938508157841,-0.0245812045570385
+3,Interpersonal Support and Coordination,128,Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,-0.0616567683485017,-0.0751132042243418
+3,Interpersonal Support and Coordination,129,"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",-0.064473857995678,-0.0562130187097694
+3,Interpersonal Support and Coordination,130,Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,-0.0871444542189882,-0.0846891867422451
+3,Interpersonal Support and Coordination,131,Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,-0.104459187075225,-0.07724215681424
+3,Interpersonal Support and Coordination,132,Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,-0.127364455530717,-0.123776002218795
+3,Interpersonal Support and Coordination,133,Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,-0.131809479508729,-0.160576569584091
+3,Interpersonal Support and Coordination,134,Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,-0.138554245859973,-0.154701673801965
+3,Interpersonal Support and Coordination,135,Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,-0.144940109070183,-0.107175701313948
+3,Interpersonal Support and Coordination,136,Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,-0.153795744851061,-0.113723985163637
+3,Interpersonal Support and Coordination,137,Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,-0.184354835264779,-0.205839968395989
+3,Interpersonal Support and Coordination,138,Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,-0.242460979830601,-0.179287332687384
+3,Interpersonal Support and Coordination,139,Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,-0.255744934436985,-0.248539401675403
+3,Interpersonal Support and Coordination,140,Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,-0.268669588330454,-0.261099907527128
+3,Interpersonal Support and Coordination,141,Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,-0.276947953701096,-0.204788663095356
+3,Interpersonal Support and Coordination,142,Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,-0.290872387067117,-0.215085060144981
+3,Interpersonal Support and Coordination,143,"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",-0.292620179175386,-0.21637746185598
+3,Interpersonal Support and Coordination,144,"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",-0.313632201533246,-0.231914763757261
+3,Interpersonal Support and Coordination,145,"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",-0.317507029425268,-0.234779998228674
+3,Interpersonal Support and Coordination,146,Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,-0.319440329181573,-0.31044019878855
+3,Interpersonal Support and Coordination,147,Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,-0.321758569720238,-0.359257047569316
+3,Interpersonal Support and Coordination,148,"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",-0.376294810343883,-0.328081301039373
+3,Interpersonal Support and Coordination,149,Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,-0.382881077828755,-0.372093524377665
+3,Interpersonal Support and Coordination,150,Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,-0.39811566117216,-0.294385905074292
+3,Interpersonal Support and Coordination,151,Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,-0.411226506925354,-0.304080696236185
+3,Interpersonal Support and Coordination,152,Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,-0.41218852588859,-0.30479205941732
+3,Interpersonal Support and Coordination,153,"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",-0.415830564284201,-0.307485158116956
+3,Interpersonal Support and Coordination,154,Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,-0.417298179817311,-0.405540935386874
+3,Interpersonal Support and Coordination,155,Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,-0.422599002563586,-0.312490067551942
+3,Interpersonal Support and Coordination,156,"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",-0.423115764646271,-0.368903228903312
+3,Interpersonal Support and Coordination,157,Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,-0.434866071509068,-0.379148004693962
+3,Interpersonal Support and Coordination,158,"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",-0.439775752247252,-0.325191384016037
+3,Interpersonal Support and Coordination,159,"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",-0.444213885359851,-0.328473153513239
+3,Interpersonal Support and Coordination,160,"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",-0.4443668561639,-0.328586267497419
+3,Interpersonal Support and Coordination,161,Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,-0.446536364895809,-0.330190506802472
+3,Interpersonal Support and Coordination,162,Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,-0.449575136126698,-0.3919724416093
+3,Interpersonal Support and Coordination,163,Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,-0.452319432678379,-0.334466785807085
+3,Interpersonal Support and Coordination,164,Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,-0.457074219967719,-0.337982704662141
+3,Interpersonal Support and Coordination,165,"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",-0.469000241863392,-0.408908667642016
+3,Interpersonal Support and Coordination,166,Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,-0.481502779788975,-0.356046359006879
+3,Interpersonal Support and Coordination,167,"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",-0.491618527826671,-0.363526430584102
+3,Interpersonal Support and Coordination,168,Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,-0.509161817289779,-0.37649878422468
+3,Interpersonal Support and Coordination,169,"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",-0.522599440792881,-0.386435210602284
+3,Interpersonal Support and Coordination,170,Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,-0.525458854037862,-0.458133409594078
+3,Interpersonal Support and Coordination,171,Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,-0.526971678756735,-0.588386160553232
+3,Interpersonal Support and Coordination,172,Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,-0.527489824253745,-0.588964691908681
+3,Interpersonal Support and Coordination,173,"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",-0.52801584013906,-0.390440357295267
+3,Interpersonal Support and Coordination,174,Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,-0.545431747474926,-0.403318518452413
+3,Interpersonal Support and Coordination,175,Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,-0.547602206704379,-0.532173687467394
+3,Interpersonal Support and Coordination,176,Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,-0.549431334762983,-0.479034369291745
+3,Interpersonal Support and Coordination,177,Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,-0.552528999227,-0.408566568414635
+3,Interpersonal Support and Coordination,178,Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,-0.555405231713031,-0.620133424645889
+3,Interpersonal Support and Coordination,179,Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,-0.557227982480953,-0.622168602947154
+3,Interpersonal Support and Coordination,180,Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,-0.566598581158181,-0.494002028631647
+3,Interpersonal Support and Coordination,181,Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,-0.567082468155273,-0.419328104672229
+3,Interpersonal Support and Coordination,182,Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,-0.609791825200223,-0.680858355828144
+3,Interpersonal Support and Coordination,183,Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,-0.610164334786156,-0.681274278531151
+3,Interpersonal Support and Coordination,184,Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,-0.611501232038137,-0.682766980839182
+3,Interpersonal Support and Coordination,185,Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,-0.64368453691096,-0.475971365765779
+3,Interpersonal Support and Coordination,186,Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,-0.663311425565734,-0.49048443305737
+3,Interpersonal Support and Coordination,187,"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",-0.718535432359622,-0.53131972492703

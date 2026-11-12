@@ -1,0 +1,23 @@
+soc_major_group,aioe_available,excluded,retained,excluded_percent,major_group_name
+11,55,11,44,20,Management
+13,46,3,43,6.52173913043478,Business and Financial Operations
+15,36,0,36,0,Computer and Mathematical
+17,55,3,52,5.45454545454545,Architecture and Engineering
+19,59,4,55,6.77966101694915,"Life, Physical, and Social Science"
+21,14,0,14,0,Community and Social Service
+23,7,0,7,0,Legal
+25,62,0,62,0,Educational Instruction and Library
+27,39,0,39,0,"Arts, Design, Entertainment, Sports, and Media"
+29,84,0,84,0,Healthcare Practitioners and Technical
+31,19,0,19,0,Healthcare Support
+33,26,0,26,0,Protective Service
+35,16,0,16,0,Food Preparation and Serving Related
+37,8,0,8,0,Building and Grounds Cleaning and Maintenance
+39,30,0,30,0,Personal Care and Service
+41,22,1,21,4.54545454545455,Sales and Related
+43,51,0,51,0,Office and Administrative Support
+45,12,0,12,0,"Farming, Fishing, and Forestry"
+47,61,4,57,6.55737704918033,Construction and Extraction
+49,50,1,49,2,"Installation, Maintenance, and Repair"
+51,107,3,104,2.80373831775701,Production
+53,51,2,49,3.92156862745098,Transportation and Material Moving

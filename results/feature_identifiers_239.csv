@@ -1,0 +1,240 @@
+feature,domain,element_id,element_name,scales,used_in_clustering
+Abilities__1.A.1.a.1__Oral Comprehension,Abilities,1.A.1.a.1,Oral Comprehension,IM/LV,False
+Abilities__1.A.1.a.2__Written Comprehension,Abilities,1.A.1.a.2,Written Comprehension,IM/LV,False
+Abilities__1.A.1.a.3__Oral Expression,Abilities,1.A.1.a.3,Oral Expression,IM/LV,False
+Abilities__1.A.1.a.4__Written Expression,Abilities,1.A.1.a.4,Written Expression,IM/LV,False
+Abilities__1.A.1.b.1__Fluency of Ideas,Abilities,1.A.1.b.1,Fluency of Ideas,IM/LV,False
+Abilities__1.A.1.b.2__Originality,Abilities,1.A.1.b.2,Originality,IM/LV,False
+Abilities__1.A.1.b.3__Problem Sensitivity,Abilities,1.A.1.b.3,Problem Sensitivity,IM/LV,False
+Abilities__1.A.1.b.4__Deductive Reasoning,Abilities,1.A.1.b.4,Deductive Reasoning,IM/LV,False
+Abilities__1.A.1.b.5__Inductive Reasoning,Abilities,1.A.1.b.5,Inductive Reasoning,IM/LV,False
+Abilities__1.A.1.b.6__Information Ordering,Abilities,1.A.1.b.6,Information Ordering,IM/LV,False
+Abilities__1.A.1.b.7__Category Flexibility,Abilities,1.A.1.b.7,Category Flexibility,IM/LV,False
+Abilities__1.A.1.c.1__Mathematical Reasoning,Abilities,1.A.1.c.1,Mathematical Reasoning,IM/LV,False
+Abilities__1.A.1.c.2__Number Facility,Abilities,1.A.1.c.2,Number Facility,IM/LV,False
+Abilities__1.A.1.d.1__Memorization,Abilities,1.A.1.d.1,Memorization,IM/LV,False
+Abilities__1.A.1.e.1__Speed of Closure,Abilities,1.A.1.e.1,Speed of Closure,IM/LV,False
+Abilities__1.A.1.e.2__Flexibility of Closure,Abilities,1.A.1.e.2,Flexibility of Closure,IM/LV,False
+Abilities__1.A.1.e.3__Perceptual Speed,Abilities,1.A.1.e.3,Perceptual Speed,IM/LV,False
+Abilities__1.A.1.f.1__Spatial Orientation,Abilities,1.A.1.f.1,Spatial Orientation,IM/LV,False
+Abilities__1.A.1.f.2__Visualization,Abilities,1.A.1.f.2,Visualization,IM/LV,False
+Abilities__1.A.1.g.1__Selective Attention,Abilities,1.A.1.g.1,Selective Attention,IM/LV,False
+Abilities__1.A.1.g.2__Time Sharing,Abilities,1.A.1.g.2,Time Sharing,IM/LV,False
+Abilities__1.A.2.a.1__Arm-Hand Steadiness,Abilities,1.A.2.a.1,Arm-Hand Steadiness,IM/LV,False
+Abilities__1.A.2.a.2__Manual Dexterity,Abilities,1.A.2.a.2,Manual Dexterity,IM/LV,False
+Abilities__1.A.2.a.3__Finger Dexterity,Abilities,1.A.2.a.3,Finger Dexterity,IM/LV,False
+Abilities__1.A.2.b.1__Control Precision,Abilities,1.A.2.b.1,Control Precision,IM/LV,False
+Abilities__1.A.2.b.2__Multilimb Coordination,Abilities,1.A.2.b.2,Multilimb Coordination,IM/LV,False
+Abilities__1.A.2.b.3__Response Orientation,Abilities,1.A.2.b.3,Response Orientation,IM/LV,False
+Abilities__1.A.2.b.4__Rate Control,Abilities,1.A.2.b.4,Rate Control,IM/LV,False
+Abilities__1.A.2.c.1__Reaction Time,Abilities,1.A.2.c.1,Reaction Time,IM/LV,False
+Abilities__1.A.2.c.2__Wrist-Finger Speed,Abilities,1.A.2.c.2,Wrist-Finger Speed,IM/LV,False
+Abilities__1.A.2.c.3__Speed of Limb Movement,Abilities,1.A.2.c.3,Speed of Limb Movement,IM/LV,False
+Abilities__1.A.3.a.1__Static Strength,Abilities,1.A.3.a.1,Static Strength,IM/LV,False
+Abilities__1.A.3.a.2__Explosive Strength,Abilities,1.A.3.a.2,Explosive Strength,IM/LV,False
+Abilities__1.A.3.a.3__Dynamic Strength,Abilities,1.A.3.a.3,Dynamic Strength,IM/LV,False
+Abilities__1.A.3.a.4__Trunk Strength,Abilities,1.A.3.a.4,Trunk Strength,IM/LV,False
+Abilities__1.A.3.b.1__Stamina,Abilities,1.A.3.b.1,Stamina,IM/LV,False
+Abilities__1.A.3.c.1__Extent Flexibility,Abilities,1.A.3.c.1,Extent Flexibility,IM/LV,False
+Abilities__1.A.3.c.2__Dynamic Flexibility,Abilities,1.A.3.c.2,Dynamic Flexibility,IM/LV,False
+Abilities__1.A.3.c.3__Gross Body Coordination,Abilities,1.A.3.c.3,Gross Body Coordination,IM/LV,False
+Abilities__1.A.3.c.4__Gross Body Equilibrium,Abilities,1.A.3.c.4,Gross Body Equilibrium,IM/LV,False
+Abilities__1.A.4.a.1__Near Vision,Abilities,1.A.4.a.1,Near Vision,IM/LV,False
+Abilities__1.A.4.a.2__Far Vision,Abilities,1.A.4.a.2,Far Vision,IM/LV,False
+Abilities__1.A.4.a.3__Visual Color Discrimination,Abilities,1.A.4.a.3,Visual Color Discrimination,IM/LV,False
+Abilities__1.A.4.a.4__Night Vision,Abilities,1.A.4.a.4,Night Vision,IM/LV,False
+Abilities__1.A.4.a.5__Peripheral Vision,Abilities,1.A.4.a.5,Peripheral Vision,IM/LV,False
+Abilities__1.A.4.a.6__Depth Perception,Abilities,1.A.4.a.6,Depth Perception,IM/LV,False
+Abilities__1.A.4.a.7__Glare Sensitivity,Abilities,1.A.4.a.7,Glare Sensitivity,IM/LV,False
+Abilities__1.A.4.b.1__Hearing Sensitivity,Abilities,1.A.4.b.1,Hearing Sensitivity,IM/LV,False
+Abilities__1.A.4.b.2__Auditory Attention,Abilities,1.A.4.b.2,Auditory Attention,IM/LV,False
+Abilities__1.A.4.b.3__Sound Localization,Abilities,1.A.4.b.3,Sound Localization,IM/LV,False
+Abilities__1.A.4.b.4__Speech Recognition,Abilities,1.A.4.b.4,Speech Recognition,IM/LV,False
+Abilities__1.A.4.b.5__Speech Clarity,Abilities,1.A.4.b.5,Speech Clarity,IM/LV,False
+Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,IM/LV,True
+Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,IM/LV,True
+Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,IM/LV,True
+Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,IM/LV,True
+Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,IM/LV,True
+Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,IM/LV,True
+Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,IM/LV,True
+Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,IM/LV,True
+Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,IM/LV,True
+Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,IM/LV,True
+Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,IM/LV,True
+Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,IM/LV,True
+Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,IM/LV,True
+Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,IM/LV,True
+Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,IM/LV,True
+Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,IM/LV,True
+Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,IM/LV,True
+Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,IM/LV,True
+Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,IM/LV,True
+Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,IM/LV,True
+Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,IM/LV,True
+Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,IM/LV,True
+Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,IM/LV,True
+Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,IM/LV,True
+Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,IM/LV,True
+Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,IM/LV,True
+Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,IM/LV,True
+Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,IM/LV,True
+Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,IM/LV,True
+Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,IM/LV,True
+Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,IM/LV,True
+Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,IM/LV,True
+Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,IM/LV,True
+Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,IM/LV,True
+Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,IM/LV,True
+Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,IM/LV,True
+Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,IM/LV,True
+Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,IM/LV,True
+Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,IM/LV,True
+Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,IM/LV,True
+Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,IM/LV,True
+Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,IM/LV,True
+Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,IM/LV,True
+Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,IM/LV,True
+Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,IM/LV,True
+Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,IM/LV,True
+Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,IM/LV,True
+Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,IM/LV,True
+Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,IM/LV,True
+Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,IM/LV,True
+Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,IM/LV,True
+Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,IM/LV,True
+Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,IM/LV,True
+Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,IM/LV,True
+Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,IM/LV,True
+Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,IM/LV,True
+Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,IM/LV,True
+Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,IM/LV,True
+Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,IM/LV,True
+Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,IM/LV,True
+Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,IM/LV,True
+Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,IM/LV,True
+Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,IM/LV,True
+Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,IM/LV,True
+Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,IM/LV,True
+Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,IM/LV,True
+Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,IM/LV,True
+Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,IM/LV,True
+Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,IM/LV,True
+"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM/LV,True
+"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM/LV,True
+"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM/LV,True
+"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM/LV,True
+"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM/LV,True
+Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,IM/LV,True
+Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM/LV,True
+Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,IM/LV,True
+Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,IM/LV,True
+Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,IM/LV,True
+Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,IM/LV,True
+Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,IM/LV,True
+Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,IM/LV,True
+"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM/LV,True
+Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,IM/LV,True
+Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,IM/LV,True
+Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,IM/LV,True
+"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM/LV,True
+Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,IM/LV,True
+"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM/LV,True
+Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM/LV,True
+Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM/LV,True
+Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,IM/LV,True
+Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM/LV,True
+"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM/LV,True
+Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,IM/LV,True
+Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM/LV,True
+Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,IM/LV,True
+Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,IM/LV,True
+Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM/LV,True
+Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,IM/LV,True
+Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,IM/LV,True
+Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,IM/LV,True
+Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,IM/LV,True
+"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM/LV,True
+Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,IM/LV,True
+Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,IM/LV,True
+Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,IM/LV,True
+Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,IM/LV,True
+Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,IM/LV,True
+Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,CX/CT,True
+Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,CX/CT,True
+Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,CX/CT,True
+Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,CX/CT,True
+Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CX/CT,True
+Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,CX/CT,True
+Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CX/CT,True
+Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,CX/CT,True
+Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CX/CT,True
+Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,CX/CT,True
+Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,CX/CT,True
+Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,CX/CT,True
+"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CX/CT,True
+Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CX/CT,True
+"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",CX/CT,True
+"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CX/CT,True
+"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CX/CT,True
+"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",CX/CT,True
+Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CX/CT,True
+Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CX/CT,True
+Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,CX/CT,True
+"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CX/CT,True
+Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CX/CT,True
+Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CX/CT,True
+Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,CX/CT,True
+"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CX/CT,True
+Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,CX/CT,True
+Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,CX/CT,True
+Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,CX/CT,True
+Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,CX/CT,True
+Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,CX/CT,True
+Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,CX/CT,True
+"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CX/CT,True
+Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,CX/CT,True
+Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,CX/CT,True
+"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CX/CT,True
+Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,CX/CT,True
+"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CX/CT,True
+Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CX/CT,True
+"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CX/CT,True
+Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CX/CT,True
+Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,CX/CT,True
+"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CX/CT,True
+"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CX/CT,True
+Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,CX/CT,True
+Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CX/CT,True
+Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,CX/CT,True
+Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,CX/CT,True
+Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,CX/CT,True
+Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,CX/CT,True
+Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,CX/CT,True
+"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",CX/CT,True
+Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,CX/CT,True
+Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,CX/CT,True
+Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,CX/CT,True
+Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,CX/CT,True
+Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,CX/CT,True
+Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,WI,True
+Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,WI,True
+Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,WI,True
+Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,WI,True
+Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,WI,True
+Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,WI,True
+Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,WI,True
+Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,WI,True
+Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,WI,True
+Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,WI,True
+Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,WI,True
+Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,WI,True
+Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,WI,True
+Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,WI,True
+Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,WI,True
+Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,WI,True
+Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,WI,True
+Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,WI,True
+Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,WI,True
+Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,WI,True
+Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,WI,True

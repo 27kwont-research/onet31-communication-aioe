@@ -1,0 +1,53 @@
+Element ID,Element Name,ability_key
+1.A.1.a.1,Oral Comprehension,oralcomprehension
+1.A.1.a.2,Written Comprehension,writtencomprehension
+1.A.1.a.3,Oral Expression,oralexpression
+1.A.1.a.4,Written Expression,writtenexpression
+1.A.1.b.1,Fluency of Ideas,fluencyofideas
+1.A.1.b.2,Originality,originality
+1.A.1.b.3,Problem Sensitivity,problemsensitivity
+1.A.1.b.4,Deductive Reasoning,deductivereasoning
+1.A.1.b.5,Inductive Reasoning,inductivereasoning
+1.A.1.b.6,Information Ordering,informationordering
+1.A.1.b.7,Category Flexibility,categoryflexibility
+1.A.1.c.1,Mathematical Reasoning,mathematicalreasoning
+1.A.1.c.2,Number Facility,numberfacility
+1.A.1.d.1,Memorization,memorization
+1.A.1.e.1,Speed of Closure,speedofclosure
+1.A.1.e.2,Flexibility of Closure,flexibilityofclosure
+1.A.1.e.3,Perceptual Speed,perceptualspeed
+1.A.1.f.1,Spatial Orientation,spatialorientation
+1.A.1.f.2,Visualization,visualization
+1.A.1.g.1,Selective Attention,selectiveattention
+1.A.1.g.2,Time Sharing,timesharing
+1.A.2.a.1,Arm-Hand Steadiness,armhandsteadiness
+1.A.2.a.2,Manual Dexterity,manualdexterity
+1.A.2.a.3,Finger Dexterity,fingerdexterity
+1.A.2.b.1,Control Precision,controlprecision
+1.A.2.b.2,Multilimb Coordination,multilimbcoordination
+1.A.2.b.3,Response Orientation,responseorientation
+1.A.2.b.4,Rate Control,ratecontrol
+1.A.2.c.1,Reaction Time,reactiontime
+1.A.2.c.2,Wrist-Finger Speed,wristfingerspeed
+1.A.2.c.3,Speed of Limb Movement,speedoflimbmovement
+1.A.3.a.1,Static Strength,staticstrength
+1.A.3.a.2,Explosive Strength,explosivestrength
+1.A.3.a.3,Dynamic Strength,dynamicstrength
+1.A.3.a.4,Trunk Strength,trunkstrength
+1.A.3.b.1,Stamina,stamina
+1.A.3.c.1,Extent Flexibility,extentflexibility
+1.A.3.c.2,Dynamic Flexibility,dynamicflexibility
+1.A.3.c.3,Gross Body Coordination,grossbodycoordination
+1.A.3.c.4,Gross Body Equilibrium,grossbodyequilibrium
+1.A.4.a.1,Near Vision,nearvision
+1.A.4.a.2,Far Vision,farvision
+1.A.4.a.3,Visual Color Discrimination,visualcolordiscrimination
+1.A.4.a.4,Night Vision,nightvision
+1.A.4.a.5,Peripheral Vision,peripheralvision
+1.A.4.a.6,Depth Perception,depthperception
+1.A.4.a.7,Glare Sensitivity,glaresensitivity
+1.A.4.b.1,Hearing Sensitivity,hearingsensitivity
+1.A.4.b.2,Auditory Attention,auditoryattention
+1.A.4.b.3,Sound Localization,soundlocalization
+1.A.4.b.4,Speech Recognition,speechrecognition
+1.A.4.b.5,Speech Clarity,speechclarity

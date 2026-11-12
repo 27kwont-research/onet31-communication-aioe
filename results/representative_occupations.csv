@@ -1,0 +1,17 @@
+cluster_id,cluster_name,rank,onet_soc_code,title,weighted_distance
+0,Public-facing Service and Support,1,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",6.94177627696767
+0,Public-facing Service and Support,2,41-2021.00,Counter and Rental Clerks,7.08703614544831
+0,Public-facing Service and Support,3,25-4031.00,Library Technicians,7.11271684760469
+0,Public-facing Service and Support,4,29-2057.00,Ophthalmic Medical Technicians,7.24503082883369
+1,STEM and Computing,1,17-2112.00,Industrial Engineers,7.32884032665017
+1,STEM and Computing,2,17-2112.02,Validation Engineers,7.43294821405638
+1,STEM and Computing,3,17-2199.06,Microsystems Engineers,7.55351304603108
+1,STEM and Computing,4,19-2043.00,Hydrologists,7.61165811263528
+2,Physical and Technical Work,1,51-2031.00,Engine and Other Machine Assemblers,4.64789352838729
+2,Physical and Technical Work,2,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",5.81224887503153
+2,Physical and Technical Work,3,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",5.98979205585977
+2,Physical and Technical Work,4,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",6.04103400205675
+3,Interpersonal Support and Coordination,1,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",7.3046190406452
+3,Interpersonal Support and Coordination,2,29-1128.00,Exercise Physiologists,7.56963409602984
+3,Interpersonal Support and Coordination,3,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",7.66843647287838
+3,Interpersonal Support and Coordination,4,25-2032.00,"Career/Technical Education Teachers, Secondary School",7.73469970084391

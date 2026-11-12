@@ -1,0 +1,25 @@
+cluster_id,cluster_name,rank,feature,domain,element_id,element_name,centroid_z,centroid_weighted
+0,Public-facing Service and Support,1,Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,0.536311166298639,0.46759524809923
+0,Public-facing Service and Support,2,"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",0.529368172514717,0.391440337022758
+0,Public-facing Service and Support,3,Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,0.513533391352742,0.625610772894729
+0,Public-facing Service and Support,4,Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,0.512589610209404,0.379033459494876
+0,Public-facing Service and Support,5,Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,0.509830701990239,0.37699338980577
+0,Public-facing Service and Support,6,Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,0.484429863790936,0.470781205365235
+1,STEM and Computing,1,Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,1.43108260237909,2.52644518567626
+1,STEM and Computing,2,Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,1.28183940532701,1.43122789430656
+1,STEM and Computing,3,Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,1.268337079031,1.23260208237973
+1,STEM and Computing,4,Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,1.20566256319879,1.171693401238
+1,STEM and Computing,5,Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,1.17586915958611,1.31290763434217
+1,STEM and Computing,6,Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,1.15385172221081,1.1213423143326
+2,Physical and Technical Work,1,Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,1.09264021505696,0.807950829372211
+2,Physical and Technical Work,2,Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,1.03497224917026,0.902364403423786
+2,Physical and Technical Work,3,"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",1.0250233288953,0.75795164528485
+2,Physical and Technical Work,4,Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,1.0241863203547,0.757332720834471
+2,Physical and Technical Work,5,Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,1.0188982207376,0.888349891354614
+2,Physical and Technical Work,6,Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,1.01670919130281,0.886441335601955
+3,Interpersonal Support and Coordination,1,Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,1.23339085644341,1.37713304099443
+3,Interpersonal Support and Coordination,2,Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,1.08541932553863,1.32230938552282
+3,Interpersonal Support and Coordination,3,Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,1.06846187493028,1.19298285966891
+3,Interpersonal Support and Coordination,4,Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,1.05908988339214,1.86972613086502
+3,Interpersonal Support and Coordination,5,Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,1.03968254266592,1.16084951835869
+3,Interpersonal Support and Coordination,6,Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,1.03898008696437,1.16006519686693

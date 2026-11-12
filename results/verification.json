@@ -1,0 +1,14 @@
+{
+  "raw_checksums_verified": true,
+  "n_occupations": 878,
+  "n_features": 187,
+  "aioe_reference_n": 910,
+  "maximum_feature_error": 0.0,
+  "maximum_aioe_error": 4.440892098500626e-16,
+  "archived_k4_partition_reproduced": true,
+  "candidate_k_metrics_reproduced": true,
+  "numpy_version": "2.5.3",
+  "pandas_version": "3.0.6",
+  "scipy_version": "1.18.1",
+  "sklearn_version": "1.9.1"
+}

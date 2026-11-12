@@ -1,0 +1,188 @@
+feature,domain,element_id,element_name,scales,used_in_clustering,mean_before_z,sd_before_z_ddof0,domain_multiplier
+Essential Skills__2.A.1.a__Reading Comprehension,Essential Skills,2.A.1.a,Reading Comprehension,IM/LV,True,0.339252957208736,0.144252370162494,1.76540835691538
+Essential Skills__2.A.1.b__Active Listening,Essential Skills,2.A.1.b,Active Listening,IM/LV,True,0.339107150992859,0.11613320698379,1.76540835691538
+Essential Skills__2.A.1.c__Writing,Essential Skills,2.A.1.c,Writing,IM/LV,True,0.276127046047494,0.141298730636132,1.76540835691538
+Essential Skills__2.A.1.d__Speaking,Essential Skills,2.A.1.d,Speaking,IM/LV,True,0.324741010413018,0.123191080439832,1.76540835691538
+Essential Skills__2.A.1.e__Mathematics,Essential Skills,2.A.1.e,Mathematics,IM/LV,True,0.156515798894196,0.116538396265937,1.76540835691538
+Essential Skills__2.A.1.f__Science,Essential Skills,2.A.1.f,Science,IM/LV,True,0.0890314594862597,0.138965874911177,1.76540835691538
+Essential Skills__2.A.2.a__Critical Thinking,Essential Skills,2.A.2.a,Critical Thinking,IM/LV,True,0.330160470225604,0.1151523494578,1.76540835691538
+Essential Skills__2.A.2.b__Active Learning,Essential Skills,2.A.2.b,Active Learning,IM/LV,True,0.255914501301002,0.120803657479979,1.76540835691538
+Essential Skills__2.A.2.c__Learning Strategies,Essential Skills,2.A.2.c,Learning Strategies,IM/LV,True,0.196506715749974,0.11471948296321,1.76540835691538
+Essential Skills__2.A.2.d__Monitoring,Essential Skills,2.A.2.d,Monitoring,IM/LV,True,0.283648734947688,0.0918887586888131,1.76540835691538
+Transferable Skills__2.B.1.a__Social Perceptiveness,Transferable Skills,2.B.1.a,Social Perceptiveness,IM/LV,True,0.251113032866697,0.111193829798138,1.11654228162962
+Transferable Skills__2.B.1.b__Coordination,Transferable Skills,2.B.1.b,Coordination,IM/LV,True,0.243158704848485,0.0828248193182427,1.11654228162962
+Transferable Skills__2.B.1.c__Persuasion,Transferable Skills,2.B.1.c,Persuasion,IM/LV,True,0.180518170355319,0.093085477728132,1.11654228162962
+Transferable Skills__2.B.1.d__Negotiation,Transferable Skills,2.B.1.d,Negotiation,IM/LV,True,0.155196326880671,0.0881072564056941,1.11654228162962
+Transferable Skills__2.B.1.e__Instructing,Transferable Skills,2.B.1.e,Instructing,IM/LV,True,0.202590953467062,0.113277712340627,1.11654228162962
+Transferable Skills__2.B.1.f__Service Orientation,Transferable Skills,2.B.1.f,Service Orientation,IM/LV,True,0.209292792059146,0.0991336042308162,1.11654228162962
+Transferable Skills__2.B.2.i__Complex Problem Solving,Transferable Skills,2.B.2.i,Complex Problem Solving,IM/LV,True,0.259166941911412,0.111276741465939,1.11654228162962
+Transferable Skills__2.B.3.a__Operations Analysis,Transferable Skills,2.B.3.a,Operations Analysis,IM/LV,True,0.0807407948265786,0.0924496643782683,1.11654228162962
+Transferable Skills__2.B.3.b__Technology Design,Transferable Skills,2.B.3.b,Technology Design,IM/LV,True,0.0336580621544624,0.0509899952369431,1.11654228162962
+Transferable Skills__2.B.3.c__Equipment Selection,Transferable Skills,2.B.3.c,Equipment Selection,IM/LV,True,0.0499528595843143,0.0657819805260651,1.11654228162962
+Transferable Skills__2.B.3.d__Installation,Transferable Skills,2.B.3.d,Installation,IM/LV,True,0.0167372762773417,0.0512358205943955,1.11654228162962
+Transferable Skills__2.B.3.e__Programming,Transferable Skills,2.B.3.e,Programming,IM/LV,True,0.0326602302313314,0.068911240722937,1.11654228162962
+Transferable Skills__2.B.3.g__Operations Monitoring,Transferable Skills,2.B.3.g,Operations Monitoring,IM/LV,True,0.146236755613786,0.116422285026821,1.11654228162962
+Transferable Skills__2.B.3.h__Operation and Control,Transferable Skills,2.B.3.h,Operation and Control,IM/LV,True,0.109915709403502,0.116033979346154,1.11654228162962
+Transferable Skills__2.B.3.j__Equipment Maintenance,Transferable Skills,2.B.3.j,Equipment Maintenance,IM/LV,True,0.0609701513179328,0.0959295492225587,1.11654228162962
+Transferable Skills__2.B.3.k__Troubleshooting,Transferable Skills,2.B.3.k,Troubleshooting,IM/LV,True,0.0857545842819829,0.0993555154243475,1.11654228162962
+Transferable Skills__2.B.3.l__Repairing,Transferable Skills,2.B.3.l,Repairing,IM/LV,True,0.0596853075171355,0.10004809458083,1.11654228162962
+Transferable Skills__2.B.3.m__Quality Control Analysis,Transferable Skills,2.B.3.m,Quality Control Analysis,IM/LV,True,0.128042482915104,0.0973036066522137,1.11654228162962
+Transferable Skills__2.B.4.e__Judgment and Decision Making,Transferable Skills,2.B.4.e,Judgment and Decision Making,IM/LV,True,0.266244773021868,0.107677530500181,1.11654228162962
+Transferable Skills__2.B.4.g__Systems Analysis,Transferable Skills,2.B.4.g,Systems Analysis,IM/LV,True,0.173903787016241,0.102804389153363,1.11654228162962
+Transferable Skills__2.B.4.h__Systems Evaluation,Transferable Skills,2.B.4.h,Systems Evaluation,IM/LV,True,0.169513150829904,0.105181603925961,1.11654228162962
+Transferable Skills__2.B.5.a__Time Management,Transferable Skills,2.B.5.a,Time Management,IM/LV,True,0.230851224373064,0.0716137534991679,1.11654228162962
+Transferable Skills__2.B.5.b__Management of Financial Resources,Transferable Skills,2.B.5.b,Management of Financial Resources,IM/LV,True,0.0553855231049214,0.0713587352748883,1.11654228162962
+Transferable Skills__2.B.5.c__Management of Material Resources,Transferable Skills,2.B.5.c,Management of Material Resources,IM/LV,True,0.0605570370977312,0.0604289716922735,1.11654228162962
+Transferable Skills__2.B.5.d__Management of Personnel Resources,Transferable Skills,2.B.5.d,Management of Personnel Resources,IM/LV,True,0.154543418483843,0.0899721916414234,1.11654228162962
+Knowledge__2.C.1.a__Administration and Management,Knowledge,2.C.1.a,Administration and Management,IM/LV,True,0.24905202977582,0.130234713075068,0.97182531580755
+Knowledge__2.C.1.b__Administrative,Knowledge,2.C.1.b,Administrative,IM/LV,True,0.219815701268531,0.145438288513109,0.97182531580755
+Knowledge__2.C.1.c__Economics and Accounting,Knowledge,2.C.1.c,Economics and Accounting,IM/LV,True,0.0964671737721401,0.112739541831657,0.97182531580755
+Knowledge__2.C.1.d__Sales and Marketing,Knowledge,2.C.1.d,Sales and Marketing,IM/LV,True,0.114533826878516,0.134571380717081,0.97182531580755
+Knowledge__2.C.1.e__Customer and Personal Service,Knowledge,2.C.1.e,Customer and Personal Service,IM/LV,True,0.367401492840923,0.204162257375442,0.97182531580755
+Knowledge__2.C.1.f__Personnel and Human Resources,Knowledge,2.C.1.f,Personnel and Human Resources,IM/LV,True,0.140227615522245,0.118916468974752,0.97182531580755
+Knowledge__2.C.10__Transportation,Knowledge,2.C.10,Transportation,IM/LV,True,0.0939663602345011,0.122088790088891,0.97182531580755
+Knowledge__2.C.2.a__Production and Processing,Knowledge,2.C.2.a,Production and Processing,IM/LV,True,0.154549316628482,0.14075248083212,0.97182531580755
+Knowledge__2.C.2.b__Food Production,Knowledge,2.C.2.b,Food Production,IM/LV,True,0.0241592133096162,0.0767075925917905,0.97182531580755
+Knowledge__2.C.3.a__Computers and Electronics,Knowledge,2.C.3.a,Computers and Electronics,IM/LV,True,0.285736706800592,0.182870727540492,0.97182531580755
+Knowledge__2.C.3.b__Engineering and Technology,Knowledge,2.C.3.b,Engineering and Technology,IM/LV,True,0.159612386104154,0.191312677511926,0.97182531580755
+Knowledge__2.C.3.c__Design,Knowledge,2.C.3.c,Design,IM/LV,True,0.130427176212199,0.170534870511573,0.97182531580755
+Knowledge__2.C.3.d__Building and Construction,Knowledge,2.C.3.d,Building and Construction,IM/LV,True,0.079282382850869,0.14983480223138,0.97182531580755
+Knowledge__2.C.3.e__Mechanical,Knowledge,2.C.3.e,Mechanical,IM/LV,True,0.165622307191528,0.190198856779316,0.97182531580755
+Knowledge__2.C.4.a__Mathematics,Knowledge,2.C.4.a,Mathematics,IM/LV,True,0.270418597461704,0.169569148446575,0.97182531580755
+Knowledge__2.C.4.b__Physics,Knowledge,2.C.4.b,Physics,IM/LV,True,0.0947827814833907,0.138730444841452,0.97182531580755
+Knowledge__2.C.4.c__Chemistry,Knowledge,2.C.4.c,Chemistry,IM/LV,True,0.105000321346156,0.139065405580411,0.97182531580755
+Knowledge__2.C.4.d__Biology,Knowledge,2.C.4.d,Biology,IM/LV,True,0.0978748047508155,0.186142044279347,0.97182531580755
+Knowledge__2.C.4.e__Psychology,Knowledge,2.C.4.e,Psychology,IM/LV,True,0.163606134071759,0.190366549295924,0.97182531580755
+Knowledge__2.C.4.f__Sociology and Anthropology,Knowledge,2.C.4.f,Sociology and Anthropology,IM/LV,True,0.086802684673082,0.127637699562264,0.97182531580755
+Knowledge__2.C.4.g__Geography,Knowledge,2.C.4.g,Geography,IM/LV,True,0.0764680564598246,0.124794923233678,0.97182531580755
+Knowledge__2.C.5.a__Medicine and Dentistry,Knowledge,2.C.5.a,Medicine and Dentistry,IM/LV,True,0.0895471038076651,0.195081824891523,0.97182531580755
+Knowledge__2.C.5.b__Therapy and Counseling,Knowledge,2.C.5.b,Therapy and Counseling,IM/LV,True,0.0859700048809396,0.173248829470801,0.97182531580755
+Knowledge__2.C.6__Education and Training,Knowledge,2.C.6,Education and Training,IM/LV,True,0.290146725512244,0.178086508240211,0.97182531580755
+Knowledge__2.C.7.a__English Language,Knowledge,2.C.7.a,English Language,IM/LV,True,0.383081996420342,0.166401784835319,0.97182531580755
+Knowledge__2.C.7.b__Foreign Language,Knowledge,2.C.7.b,Foreign Language,IM/LV,True,0.0359644809634476,0.0580705260762887,0.97182531580755
+Knowledge__2.C.7.c__Fine Arts,Knowledge,2.C.7.c,Fine Arts,IM/LV,True,0.0288469980474191,0.106386885637111,0.97182531580755
+Knowledge__2.C.7.d__History and Archeology,Knowledge,2.C.7.d,History and Archeology,IM/LV,True,0.0328866091771857,0.0878422916021495,0.97182531580755
+Knowledge__2.C.7.e__Philosophy and Theology,Knowledge,2.C.7.e,Philosophy and Theology,IM/LV,True,0.0451493532381378,0.0865428376478334,0.97182531580755
+Knowledge__2.C.8.a__Public Safety and Security,Knowledge,2.C.8.a,Public Safety and Security,IM/LV,True,0.18727459323217,0.141277941913573,0.97182531580755
+Knowledge__2.C.8.b__Law and Government,Knowledge,2.C.8.b,Law and Government,IM/LV,True,0.143105601204464,0.138021674493885,0.97182531580755
+Knowledge__2.C.9.a__Telecommunications,Knowledge,2.C.9.a,Telecommunications,IM/LV,True,0.0787520623170706,0.0931141776244888,0.97182531580755
+Knowledge__2.C.9.b__Communications and Media,Knowledge,2.C.9.b,Communications and Media,IM/LV,True,0.131353014155178,0.125181770341069,0.97182531580755
+Work Activities__4.A.1.a.1__Getting Information,Work Activities,4.A.1.a.1,Getting Information,IM/LV,True,0.493586161731652,0.15255814797819,0.871873042148922
+"Work Activities__4.A.1.a.2__Monitoring Processes, Materials, or Surroundings",Work Activities,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",IM/LV,True,0.395426334201834,0.143873838585255,0.871873042148922
+"Work Activities__4.A.1.b.1__Identifying Objects, Actions, and Events",Work Activities,4.A.1.b.1,"Identifying Objects, Actions, and Events",IM/LV,True,0.434001964691788,0.139523591641307,0.871873042148922
+"Work Activities__4.A.1.b.2__Inspecting Equipment, Structures, or Materials",Work Activities,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",IM/LV,True,0.274929604620237,0.176855228122808,0.871873042148922
+"Work Activities__4.A.1.b.3__Estimating the Quantifiable Characteristics of Products, Events, or Information",Work Activities,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",IM/LV,True,0.229065497884157,0.114756691332364,0.871873042148922
+"Work Activities__4.A.2.a.1__Judging the Qualities of Objects, Services, or People",Work Activities,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",IM/LV,True,0.303395570289738,0.117745326822026,0.871873042148922
+Work Activities__4.A.2.a.2__Processing Information,Work Activities,4.A.2.a.2,Processing Information,IM/LV,True,0.408845655710661,0.179667074738288,0.871873042148922
+Work Activities__4.A.2.a.3__Evaluating Information to Determine Compliance with Standards,Work Activities,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,IM/LV,True,0.356264293849989,0.152561349764126,0.871873042148922
+Work Activities__4.A.2.a.4__Analyzing Data or Information,Work Activities,4.A.2.a.4,Analyzing Data or Information,IM/LV,True,0.356347014318972,0.205181880321108,0.871873042148922
+Work Activities__4.A.2.b.1__Making Decisions and Solving Problems,Work Activities,4.A.2.b.1,Making Decisions and Solving Problems,IM/LV,True,0.489802168077358,0.163962902826092,0.871873042148922
+Work Activities__4.A.2.b.2__Thinking Creatively,Work Activities,4.A.2.b.2,Thinking Creatively,IM/LV,True,0.362782537421173,0.184227228917341,0.871873042148922
+Work Activities__4.A.2.b.3__Updating and Using Relevant Knowledge,Work Activities,4.A.2.b.3,Updating and Using Relevant Knowledge,IM/LV,True,0.476592853073599,0.176730577954809,0.871873042148922
+Work Activities__4.A.2.b.4__Developing Objectives and Strategies,Work Activities,4.A.2.b.4,Developing Objectives and Strategies,IM/LV,True,0.263735051252939,0.140766852267311,0.871873042148922
+Work Activities__4.A.2.b.5__Scheduling Work and Activities,Work Activities,4.A.2.b.5,Scheduling Work and Activities,IM/LV,True,0.290742767653303,0.131074100230709,0.871873042148922
+"Work Activities__4.A.2.b.6__Organizing, Planning, and Prioritizing Work",Work Activities,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",IM/LV,True,0.451024760007847,0.146842125445049,0.871873042148922
+Work Activities__4.A.3.a.1__Performing General Physical Activities,Work Activities,4.A.3.a.1,Performing General Physical Activities,IM/LV,True,0.253439057923161,0.197829454399791,0.871873042148922
+Work Activities__4.A.3.a.2__Handling and Moving Objects,Work Activities,4.A.3.a.2,Handling and Moving Objects,IM/LV,True,0.29518553123981,0.229180948012234,0.871873042148922
+Work Activities__4.A.3.a.3__Controlling Machines and Processes,Work Activities,4.A.3.a.3,Controlling Machines and Processes,IM/LV,True,0.227953563292866,0.207855616324237,0.871873042148922
+"Work Activities__4.A.3.a.4__Operating Vehicles, Mechanized Devices, or Equipment",Work Activities,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",IM/LV,True,0.143966315489428,0.170986191201256,0.871873042148922
+Work Activities__4.A.3.b.1__Working with Computers,Work Activities,4.A.3.b.1,Working with Computers,IM/LV,True,0.335981028311618,0.190437833716881,0.871873042148922
+"Work Activities__4.A.3.b.2__Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",IM/LV,True,0.107323503091191,0.13795921023656,0.871873042148922
+Work Activities__4.A.3.b.4__Repairing and Maintaining Mechanical Equipment,Work Activities,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,IM/LV,True,0.137259888545051,0.167327893893832,0.871873042148922
+Work Activities__4.A.3.b.5__Repairing and Maintaining Electronic Equipment,Work Activities,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,IM/LV,True,0.107052680605805,0.13262018269055,0.871873042148922
+Work Activities__4.A.3.b.6__Documenting/Recording Information,Work Activities,4.A.3.b.6,Documenting/Recording Information,IM/LV,True,0.367815644322187,0.172524545880221,0.871873042148922
+Work Activities__4.A.4.a.1__Interpreting the Meaning of Information for Others,Work Activities,4.A.4.a.1,Interpreting the Meaning of Information for Others,IM/LV,True,0.302883399771082,0.171039034267875,0.871873042148922
+"Work Activities__4.A.4.a.2__Communicating with Supervisors, Peers, or Subordinates",Work Activities,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",IM/LV,True,0.483133908233576,0.139420174708497,0.871873042148922
+Work Activities__4.A.4.a.3__Communicating with People Outside the Organization,Work Activities,4.A.4.a.3,Communicating with People Outside the Organization,IM/LV,True,0.313623035306024,0.185175084177247,0.871873042148922
+Work Activities__4.A.4.a.4__Establishing and Maintaining Interpersonal Relationships,Work Activities,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,IM/LV,True,0.446285018711982,0.157288185140374,0.871873042148922
+Work Activities__4.A.4.a.5__Assisting and Caring for Others,Work Activities,4.A.4.a.5,Assisting and Caring for Others,IM/LV,True,0.254363931825387,0.220149093025182,0.871873042148922
+Work Activities__4.A.4.a.6__Selling or Influencing Others,Work Activities,4.A.4.a.6,Selling or Influencing Others,IM/LV,True,0.141032622844615,0.127567708965852,0.871873042148922
+Work Activities__4.A.4.a.7__Resolving Conflicts and Negotiating with Others,Work Activities,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,IM/LV,True,0.267709445169248,0.150242362914768,0.871873042148922
+Work Activities__4.A.4.a.8__Performing for or Working Directly with the Public,Work Activities,4.A.4.a.8,Performing for or Working Directly with the Public,IM/LV,True,0.247892068011014,0.197091769385735,0.871873042148922
+Work Activities__4.A.4.b.1__Coordinating the Work and Activities of Others,Work Activities,4.A.4.b.1,Coordinating the Work and Activities of Others,IM/LV,True,0.274673759355433,0.135680276954617,0.871873042148922
+Work Activities__4.A.4.b.2__Developing and Building Teams,Work Activities,4.A.4.b.2,Developing and Building Teams,IM/LV,True,0.236329393101357,0.129334939575521,0.871873042148922
+Work Activities__4.A.4.b.3__Training and Teaching Others,Work Activities,4.A.4.b.3,Training and Teaching Others,IM/LV,True,0.326244199479032,0.163223853763324,0.871873042148922
+"Work Activities__4.A.4.b.4__Guiding, Directing, and Motivating Subordinates",Work Activities,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",IM/LV,True,0.231860925805352,0.146774843835091,0.871873042148922
+Work Activities__4.A.4.b.5__Coaching and Developing Others,Work Activities,4.A.4.b.5,Coaching and Developing Others,IM/LV,True,0.279437158314328,0.145600932541406,0.871873042148922
+Work Activities__4.A.4.b.6__Providing Consultation and Advice to Others,Work Activities,4.A.4.b.6,Providing Consultation and Advice to Others,IM/LV,True,0.258814269443462,0.156073028982448,0.871873042148922
+Work Activities__4.A.4.c.1__Performing Administrative Activities,Work Activities,4.A.4.c.1,Performing Administrative Activities,IM/LV,True,0.202190872111082,0.122244299814397,0.871873042148922
+Work Activities__4.A.4.c.2__Staffing Organizational Units,Work Activities,4.A.4.c.2,Staffing Organizational Units,IM/LV,True,0.108506845916257,0.109534905152125,0.871873042148922
+Work Activities__4.A.4.c.3__Monitoring and Controlling Resources,Work Activities,4.A.4.c.3,Monitoring and Controlling Resources,IM/LV,True,0.175081317116925,0.112386178558515,0.871873042148922
+Work Context__4.C.1.a.2.c__Public Speaking,Work Context,4.C.1.a.2.c,Public Speaking,CX/CT,True,2.29891799544419,0.74114719924708,0.739448190024828
+Work Context__4.C.1.a.2.f__Telephone Conversations,Work Context,4.C.1.a.2.f,Telephone Conversations,CX/CT,True,4.00807517084283,0.890624187352049,0.739448190024828
+Work Context__4.C.1.a.2.h__E-Mail,Work Context,4.C.1.a.2.h,E-Mail,CX/CT,True,3.97813211845103,1.19625989696506,0.739448190024828
+Work Context__4.C.1.a.2.j__Written Letters and Memos,Work Context,4.C.1.a.2.j,Written Letters and Memos,CX/CT,True,3.01430523917995,0.740694378238641,0.739448190024828
+Work Context__4.C.1.a.2.l__Face-to-Face Discussions with Individuals and Within Teams,Work Context,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CX/CT,True,4.544430523918,0.355176919022522,0.739448190024828
+Work Context__4.C.1.a.4__Contact With Others,Work Context,4.C.1.a.4,Contact With Others,CX/CT,True,4.32211845102506,0.457922489588024,0.739448190024828
+Work Context__4.C.1.b.1.e__Work With or Contribute to a Work Group or Team,Work Context,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CX/CT,True,4.18231207289294,0.496238707452894,0.739448190024828
+Work Context__4.C.1.b.1.f__Deal With External Customers or the Public in General,Work Context,4.C.1.b.1.f,Deal With External Customers or the Public in General,CX/CT,True,3.36526195899772,0.865633591377432,0.739448190024828
+Work Context__4.C.1.b.1.g__Coordinate or Lead Others in Accomplishing Work Activities,Work Context,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CX/CT,True,3.56325740318907,0.547754043189239,0.739448190024828
+Work Context__4.C.1.c.1__Health and Safety of Other Workers,Work Context,4.C.1.c.1,Health and Safety of Other Workers,CX/CT,True,3.28356492027335,0.852343507837395,0.739448190024828
+Work Context__4.C.1.c.2__Work Outcomes and Results of Other Workers,Work Context,4.C.1.c.2,Work Outcomes and Results of Other Workers,CX/CT,True,3.3056264236902,0.61476202913654,0.739448190024828
+Work Context__4.C.1.d.1__Conflict Situations,Work Context,4.C.1.d.1,Conflict Situations,CX/CT,True,2.87472665148064,0.582860244169004,0.739448190024828
+"Work Context__4.C.1.d.2__Dealing With Unpleasant, Angry, or Discourteous People",Work Context,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CX/CT,True,2.86788154897494,0.655678246695978,0.739448190024828
+Work Context__4.C.1.d.3__Dealing with Violent or Physically Aggressive People,Work Context,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CX/CT,True,1.54776765375854,0.546014160163916,0.739448190024828
+"Work Context__4.C.2.a.1.a__Indoors, Environmentally Controlled",Work Context,4.C.2.a.1.a,"Indoors, Environmentally Controlled",CX/CT,True,3.96069476082005,0.936608939452481,0.739448190024828
+"Work Context__4.C.2.a.1.b__Indoors, Not Environmentally Controlled",Work Context,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CX/CT,True,2.27234624145786,1.02540761756824,0.739448190024828
+"Work Context__4.C.2.a.1.c__Outdoors, Exposed to All Weather Conditions",Work Context,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CX/CT,True,2.28867881548975,1.245241817422,0.739448190024828
+"Work Context__4.C.2.a.1.d__Outdoors, Under Cover",Work Context,4.C.2.a.1.d,"Outdoors, Under Cover",CX/CT,True,1.79248291571754,0.771327721995986,0.739448190024828
+Work Context__4.C.2.a.1.e__In an Open Vehicle or Operating Equipment,Work Context,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CX/CT,True,1.55728929384966,0.767222714128332,0.739448190024828
+Work Context__4.C.2.a.1.f__In an Enclosed Vehicle or Operate Enclosed Equipment,Work Context,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CX/CT,True,2.1776993166287,1.12053220790466,0.739448190024828
+Work Context__4.C.2.a.3__Physical Proximity,Work Context,4.C.2.a.3,Physical Proximity,CX/CT,True,3.41961275626424,0.685867314463317,0.739448190024828
+"Work Context__4.C.2.b.1.a__Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",Work Context,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CX/CT,True,3.04865603644647,0.9207525235954,0.739448190024828
+Work Context__4.C.2.b.1.b__Exposed to Very Hot or Cold Temperatures,Work Context,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CX/CT,True,2.24904328018223,1.09431571089882,0.739448190024828
+Work Context__4.C.2.b.1.c__Exposed to Extremely Bright or Inadequate Lighting Conditions,Work Context,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CX/CT,True,2.0125854214123,0.816159565480336,0.739448190024828
+Work Context__4.C.2.b.1.d__Exposed to Contaminants,Work Context,4.C.2.b.1.d,Exposed to Contaminants,CX/CT,True,2.68149202733485,1.14814713835082,0.739448190024828
+"Work Context__4.C.2.b.1.e__Exposed to Cramped Work Space, Awkward Positions",Work Context,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CX/CT,True,1.97234624145786,0.81454500256907,0.739448190024828
+Work Context__4.C.2.b.1.f__Exposed to Whole Body Vibration,Work Context,4.C.2.b.1.f,Exposed to Whole Body Vibration,CX/CT,True,1.34261958997722,0.600239677777106,0.739448190024828
+Work Context__4.C.2.c.1.a__Exposed to Radiation,Work Context,4.C.2.c.1.a,Exposed to Radiation,CX/CT,True,1.25957858769932,0.573376031048691,0.739448190024828
+Work Context__4.C.2.c.1.b__Exposed to Disease or Infections,Work Context,4.C.2.c.1.b,Exposed to Disease or Infections,CX/CT,True,1.8228132118451,1.07424707508191,0.739448190024828
+Work Context__4.C.2.c.1.c__Exposed to High Places,Work Context,4.C.2.c.1.c,Exposed to High Places,CX/CT,True,1.58793849658314,0.804586771709861,0.739448190024828
+Work Context__4.C.2.c.1.d__Exposed to Hazardous Conditions,Work Context,4.C.2.c.1.d,Exposed to Hazardous Conditions,CX/CT,True,1.97267653758542,0.964076393097258,0.739448190024828
+Work Context__4.C.2.c.1.e__Exposed to Hazardous Equipment,Work Context,4.C.2.c.1.e,Exposed to Hazardous Equipment,CX/CT,True,2.09867881548975,1.12967866267146,0.739448190024828
+"Work Context__4.C.2.c.1.f__Exposed to Minor Burns, Cuts, Bites, or Stings",Work Context,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CX/CT,True,2.07760820045558,0.938498520465966,0.739448190024828
+Work Context__4.C.2.d.1.a__Spend Time Sitting,Work Context,4.C.2.d.1.a,Spend Time Sitting,CX/CT,True,3.13135535307517,1.05597059776158,0.739448190024828
+Work Context__4.C.2.d.1.b__Spend Time Standing,Work Context,4.C.2.d.1.b,Spend Time Standing,CX/CT,True,3.11260820045558,0.938762287466913,0.739448190024828
+"Work Context__4.C.2.d.1.c__Spend Time Climbing Ladders, Scaffolds, or Poles",Work Context,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CX/CT,True,1.42543280182232,0.591160961101859,0.739448190024828
+Work Context__4.C.2.d.1.d__Spend Time Walking or Running,Work Context,4.C.2.d.1.d,Spend Time Walking or Running,CX/CT,True,2.52888382687927,0.8006714907889,0.739448190024828
+"Work Context__4.C.2.d.1.e__Spend Time Kneeling, Crouching, Stooping, or Crawling",Work Context,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CX/CT,True,1.86164009111617,0.691600631222937,0.739448190024828
+Work Context__4.C.2.d.1.f__Spend Time Keeping or Regaining Balance,Work Context,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CX/CT,True,1.63535307517084,0.567771931724435,0.739448190024828
+"Work Context__4.C.2.d.1.g__Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",Work Context,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CX/CT,True,3.345,1.00554632189023,0.739448190024828
+Work Context__4.C.2.d.1.h__Spend Time Bending or Twisting Your Body,Work Context,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CX/CT,True,2.31341685649203,0.910165914829643,0.739448190024828
+Work Context__4.C.2.d.1.i__Spend Time Making Repetitive Motions,Work Context,4.C.2.d.1.i,Spend Time Making Repetitive Motions,CX/CT,True,3.07367881548975,0.779088025813383,0.739448190024828
+"Work Context__4.C.2.e.1.d__Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",Work Context,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CX/CT,True,2.98125284738041,1.45358226174134,0.739448190024828
+"Work Context__4.C.2.e.1.e__Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",Work Context,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CX/CT,True,1.72899772209567,0.827777108145241,0.739448190024828
+Work Context__4.C.3.a.1__Consequence of Error,Work Context,4.C.3.a.1,Consequence of Error,CX/CT,True,3.03161731207289,0.742564895131472,0.739448190024828
+Work Context__4.C.3.a.2.a__Impact of Decisions on Co-workers or Company Results,Work Context,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CX/CT,True,3.76461275626424,0.51561916065542,0.739448190024828
+Work Context__4.C.3.a.2.b__Frequency of Decision Making,Work Context,4.C.3.a.2.b,Frequency of Decision Making,CX/CT,True,3.76129840546697,0.606393911663236,0.739448190024828
+Work Context__4.C.3.a.4__Freedom to Make Decisions,Work Context,4.C.3.a.4,Freedom to Make Decisions,CX/CT,True,4.08321184510251,0.470828696313207,0.739448190024828
+Work Context__4.C.3.b.2__Degree of Automation,Work Context,4.C.3.b.2,Degree of Automation,CX/CT,True,2.06348519362187,0.517017175760478,0.739448190024828
+Work Context__4.C.3.b.4__Importance of Being Exact or Accurate,Work Context,4.C.3.b.4,Importance of Being Exact or Accurate,CX/CT,True,4.18930523917995,0.463259812612386,0.739448190024828
+Work Context__4.C.3.b.7__Importance of Repeating Same Tasks,Work Context,4.C.3.b.7,Importance of Repeating Same Tasks,CX/CT,True,3.28996583143508,0.645789674794889,0.739448190024828
+"Work Context__4.C.3.b.8__Determine Tasks, Priorities and Goals",Work Context,4.C.3.b.8,"Determine Tasks, Priorities and Goals",CX/CT,True,4.0001708428246,0.476512905806788,0.739448190024828
+Work Context__4.C.3.c.1__Level of Competition,Work Context,4.C.3.c.1,Level of Competition,CX/CT,True,3.03478359908884,0.596168392918532,0.739448190024828
+Work Context__4.C.3.d.1__Time Pressure,Work Context,4.C.3.d.1,Time Pressure,CX/CT,True,3.83872437357631,0.515650474160163,0.739448190024828
+Work Context__4.C.3.d.3__Pace Determined by Speed of Equipment,Work Context,4.C.3.d.3,Pace Determined by Speed of Equipment,CX/CT,True,1.94427107061503,0.923105017930746,0.739448190024828
+Work Context__4.C.3.d.4__Work Schedules,Work Context,4.C.3.d.4,Work Schedules,CX/CT,True,1.2919020501139,0.261101843421616,0.739448190024828
+Work Context__4.C.3.d.8__Duration of Typical Work Week,Work Context,4.C.3.d.8,Duration of Typical Work Week,CX/CT,True,2.2946013667426,0.382797534878215,0.739448190024828
+Work Styles__1.D.1.a__Innovation,Work Styles,1.D.1.a,Innovation,WI,True,0.760113895216401,0.999904089142284,1.21824750528248
+Work Styles__1.D.1.b__Achievement Orientation,Work Styles,1.D.1.b,Achievement Orientation,WI,True,1.44625284738041,0.591110853268489,1.21824750528248
+Work Styles__1.D.1.c__Intellectual Curiosity,Work Styles,1.D.1.c,Intellectual Curiosity,WI,True,1.12973804100228,0.973267188502598,1.21824750528248
+Work Styles__1.D.1.d__Tolerance for Ambiguity,Work Styles,1.D.1.d,Tolerance for Ambiguity,WI,True,0.648302961275627,0.866906086805111,1.21824750528248
+Work Styles__1.D.1.e__Initiative,Work Styles,1.D.1.e,Initiative,WI,True,1.05783599088838,0.634160152000856,1.21824750528248
+Work Styles__1.D.1.f__Adaptability,Work Styles,1.D.1.f,Adaptability,WI,True,1.2397722095672,0.664773887639872,1.21824750528248
+Work Styles__1.D.1.g__Self-Confidence,Work Styles,1.D.1.g,Self-Confidence,WI,True,1.21282460136674,0.566190357113371,1.21824750528248
+Work Styles__1.D.1.h__Perseverance,Work Styles,1.D.1.h,Perseverance,WI,True,1.5098291571754,0.496300062597129,1.21824750528248
+Work Styles__1.D.1.i__Leadership Orientation,Work Styles,1.D.1.i,Leadership Orientation,WI,True,0.675580865603645,0.982936684594125,1.21824750528248
+Work Styles__1.D.2.a__Humility,Work Styles,1.D.2.a,Humility,WI,True,0.399088838268793,0.59168812880273,1.21824750528248
+Work Styles__1.D.2.b__Sincerity,Work Styles,1.D.2.b,Sincerity,WI,True,0.907949886104784,0.691565941029168,1.21824750528248
+Work Styles__1.D.2.c__Empathy,Work Styles,1.D.2.c,Empathy,WI,True,0.800968109339408,0.94834616690634,1.21824750528248
+Work Styles__1.D.2.d__Cooperation,Work Styles,1.D.2.d,Cooperation,WI,True,1.43390660592255,0.750966803088743,1.21824750528248
+Work Styles__1.D.2.e__Optimism,Work Styles,1.D.2.e,Optimism,WI,True,0.764009111617312,0.750550510128471,1.21824750528248
+Work Styles__1.D.2.f__Social Orientation,Work Styles,1.D.2.f,Social Orientation,WI,True,0.99382687927107,0.979054644728304,1.21824750528248
+Work Styles__1.D.3.a__Cautiousness,Work Styles,1.D.3.a,Cautiousness,WI,True,1.73194760820046,0.742723678057716,1.21824750528248
+Work Styles__1.D.3.b__Attention to Detail,Work Styles,1.D.3.b,Attention to Detail,WI,True,2.329430523918,0.480009153365125,1.21824750528248
+Work Styles__1.D.3.c__Dependability,Work Styles,1.D.3.c,Dependability,WI,True,2.43744874715262,0.285561599882736,1.21824750528248
+Work Styles__1.D.3.d__Integrity,Work Styles,1.D.3.d,Integrity,WI,True,1.78496583143508,0.657343092977253,1.21824750528248
+Work Styles__1.D.4.a__Stress Tolerance,Work Styles,1.D.4.a,Stress Tolerance,WI,True,1.46566059225513,0.578896687286957,1.21824750528248
+Work Styles__1.D.4.b__Self-Control,Work Styles,1.D.4.b,Self-Control,WI,True,1.39874715261959,0.637800196743225,1.21824750528248

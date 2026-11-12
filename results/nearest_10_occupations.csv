@@ -1,0 +1,41 @@
+cluster_id,cluster_name,rank,onet_soc_code,title,weighted_distance
+0,Public-facing Service and Support,1,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",6.94177627696767
+0,Public-facing Service and Support,2,41-2021.00,Counter and Rental Clerks,7.08703614544831
+0,Public-facing Service and Support,3,25-4031.00,Library Technicians,7.11271684760469
+0,Public-facing Service and Support,4,29-2057.00,Ophthalmic Medical Technicians,7.24503082883369
+0,Public-facing Service and Support,5,43-3071.00,Tellers,7.25178982781273
+0,Public-facing Service and Support,6,29-2099.05,Ophthalmic Medical Technologists,7.37636373141765
+0,Public-facing Service and Support,7,43-4121.00,"Library Assistants, Clerical",7.4254672396286
+0,Public-facing Service and Support,8,29-2052.00,Pharmacy Technicians,7.45695989875134
+0,Public-facing Service and Support,9,43-6013.00,Medical Secretaries and Administrative Assistants,7.59505541884327
+0,Public-facing Service and Support,10,43-9061.00,"Office Clerks, General",7.59929985145686
+1,STEM and Computing,1,17-2112.00,Industrial Engineers,7.32884032665017
+1,STEM and Computing,2,17-2112.02,Validation Engineers,7.43294821405638
+1,STEM and Computing,3,17-2199.06,Microsystems Engineers,7.55351304603108
+1,STEM and Computing,4,19-2043.00,Hydrologists,7.61165811263528
+1,STEM and Computing,5,19-2041.00,"Environmental Scientists and Specialists, Including Health",7.88166574718327
+1,STEM and Computing,6,13-1081.02,Logistics Analysts,7.96032702256061
+1,STEM and Computing,7,17-2071.00,Electrical Engineers,7.96230323162697
+1,STEM and Computing,8,17-2171.00,Petroleum Engineers,8.01570907599144
+1,STEM and Computing,9,17-2072.01,Radio Frequency Identification Device Specialists,8.04475993673121
+1,STEM and Computing,10,19-4042.00,"Environmental Science and Protection Technicians, Including Health",8.09694750328839
+2,Physical and Technical Work,1,51-2031.00,Engine and Other Machine Assemblers,4.64789352838729
+2,Physical and Technical Work,2,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",5.81224887503153
+2,Physical and Technical Work,3,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders",5.98979205585977
+2,Physical and Technical Work,4,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",6.04103400205675
+2,Physical and Technical Work,5,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",6.2647237296595
+2,Physical and Technical Work,6,49-3021.00,Automotive Body and Related Repairers,6.33610720324709
+2,Physical and Technical Work,7,51-2041.00,Structural Metal Fabricators and Fitters,6.36447339521187
+2,Physical and Technical Work,8,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",6.48585584922515
+2,Physical and Technical Work,9,51-9111.00,Packaging and Filling Machine Operators and Tenders,6.60891514557192
+2,Physical and Technical Work,10,51-5113.00,Print Binding and Finishing Workers,6.6629774105887
+3,Interpersonal Support and Coordination,1,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",7.3046190406452
+3,Interpersonal Support and Coordination,2,29-1128.00,Exercise Physiologists,7.56963409602984
+3,Interpersonal Support and Coordination,3,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",7.66843647287838
+3,Interpersonal Support and Coordination,4,25-2032.00,"Career/Technical Education Teachers, Secondary School",7.73469970084391
+3,Interpersonal Support and Coordination,5,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,7.95081176183554
+3,Interpersonal Support and Coordination,6,11-9151.00,Social and Community Service Managers,8.14594419805328
+3,Interpersonal Support and Coordination,7,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",8.18622778414954
+3,Interpersonal Support and Coordination,8,21-1091.00,Health Education Specialists,8.19700554741071
+3,Interpersonal Support and Coordination,9,25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary",8.23136733457482
+3,Interpersonal Support and Coordination,10,25-1071.00,"Health Specialties Teachers, Postsecondary",8.37337789952761

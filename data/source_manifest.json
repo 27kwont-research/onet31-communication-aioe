@@ -1,0 +1,63 @@
+{
+  "onet_version": "31.0",
+  "aioe_source": {
+    "commit": "31c584b06d4c21c5ebd219e419ce3dec68fce6ec",
+    "url": "https://raw.githubusercontent.com/AIOE-Data/AIOE/31c584b06d4c21c5ebd219e419ce3dec68fce6ec/Input/mturk_mapping_matrix.dta"
+  },
+  "files": [
+    {
+      "path": "data/raw/onet31/occupation_data.csv.gz",
+      "sha256": "a1d8ba0d855aa621db244ffd8af9c62ebbf984dd542fb3c23b5f4d15482d3dcb",
+      "uncompressed_sha256": "a09eae1d6609686e44e05b7290993a1c8b523d8ca224bc0eedc194c855c3ee02",
+      "bytes": 78835
+    },
+    {
+      "path": "data/raw/onet31/abilities.csv.gz",
+      "sha256": "c937c707f5078d3c3c66baab22fe9ea7046ecb3e2c98e30862b3fd04bb958a3d",
+      "uncompressed_sha256": "7e9cd79791ce6014e1d26d0a449ae5b1e7aa7ef52d39b3934c3bb8d438104b88",
+      "bytes": 617362
+    },
+    {
+      "path": "data/raw/onet31/essential_skills.csv.gz",
+      "sha256": "bb57c0b1ed3bae75e9d2bbe44767bb5eca5f768c6d8d8268b71244f672ff3465",
+      "uncompressed_sha256": "68c4d31d8c55077238395dca40cc4e6d32e6a608b5474bb8264b1f98ae415bd7",
+      "bytes": 124847
+    },
+    {
+      "path": "data/raw/onet31/transferable_skills.csv.gz",
+      "sha256": "29a80c59e7b7b1057e926c9aa83b18489e160efdc1ccc623101564cb8456e579",
+      "uncompressed_sha256": "f17d0419e818a3bf2f55076510c76c4aef01cc8f5aee2670d2f44f6f44ac60f7",
+      "bytes": 315781
+    },
+    {
+      "path": "data/raw/onet31/knowledge.csv.gz",
+      "sha256": "e7decec5dc7be07850869feb2d1dc821aedd9120b2f36c35dd6e4cd6995dac57",
+      "uncompressed_sha256": "88092e17d16096cdebe292fee4389deb460edda24ae8b4637212c69c71562f55",
+      "bytes": 875830
+    },
+    {
+      "path": "data/raw/onet31/work_activities.csv.gz",
+      "sha256": "ef7f79a4f6674d615714afa6932a6bb438b6cf223e4652c6b26a94b08d858b2f",
+      "uncompressed_sha256": "6c266205b2926c0c854a7a577aae29fe492c71bb0df7e197adca830b58fe4ea1",
+      "bytes": 1128484
+    },
+    {
+      "path": "data/raw/onet31/work_context.csv.gz",
+      "sha256": "e1a2b96a65ef7232e416bc00aac958685ce8e714cc4eaa9f9069d47b270a9539",
+      "uncompressed_sha256": "599f6bff23cbc3e7d8915e25c0167324b1e00c4117bcbcd9a0c754fe47cb4fd7",
+      "bytes": 5165745
+    },
+    {
+      "path": "data/raw/onet31/work_styles.csv.gz",
+      "sha256": "e2e25086f01fba3558a64adffe886eacb007baa1c4c1608fb63f7d05e5463a8c",
+      "uncompressed_sha256": "a3e5331df515dbc9ede284667e72189a4f24c8a8af80f61bae908596ea48c926",
+      "bytes": 196955
+    },
+    {
+      "path": "data/raw/aioe/mturk_mapping_matrix.dta",
+      "sha256": "22e8ec467acedd11924c64c5e5d13e665447ee67fb4b3a52d717cebe0cca14ee",
+      "uncompressed_sha256": "22e8ec467acedd11924c64c5e5d13e665447ee67fb4b3a52d717cebe0cca14ee",
+      "bytes": 39585
+    }
+  ]
+}

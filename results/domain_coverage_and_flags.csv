@@ -1,0 +1,8 @@
+domain,required_records_per_occupation,retained_records,missing_values,suppressed_records,suppressed_occupations,not_relevant_lv_records
+Abilities,104,91312,0,55,31,7257
+Essential Skills,20,17560,0,17,17,296
+Transferable Skills,50,43900,0,120,59,3126
+Knowledge,66,57948,0,4860,623,5938
+Work Activities,82,71996,0,1067,316,1111
+Work Context,57,50046,0,127,32,0
+Work Styles,21,18438,0,0,0,0
